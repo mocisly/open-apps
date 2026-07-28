@@ -24,39 +24,613 @@ stack:
       role: mobile-framework
 github:
   repository:
+    id: 294918218
+    node_id: MDEwOlJlcG9zaXRvcnkyOTQ5MTgyMTg=
+    name: flutter
     full_name: wger-project/flutter
+    private: false
+    owner:
+      login: wger-project
+      id: 17430347
+      node_id: MDEyOk9yZ2FuaXphdGlvbjE3NDMwMzQ3
+      avatar_url: https://avatars.githubusercontent.com/u/17430347?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/wger-project
+      html_url: https://github.com/wger-project
+      followers_url: https://api.github.com/users/wger-project/followers
+      following_url: https://api.github.com/users/wger-project/following{/other_user}
+      gists_url: https://api.github.com/users/wger-project/gists{/gist_id}
+      starred_url: https://api.github.com/users/wger-project/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/wger-project/subscriptions
+      organizations_url: https://api.github.com/users/wger-project/orgs
+      repos_url: https://api.github.com/users/wger-project/repos
+      events_url: https://api.github.com/users/wger-project/events{/privacy}
+      received_events_url: https://api.github.com/users/wger-project/received_events
+      type: Organization
+      user_view_type: public
+      site_admin: false
     html_url: https://github.com/wger-project/flutter
-    description: Flutter fitness/workout app for wger by the [wger project](https://github.com/wger-project)
+    description: Flutter fitness/workout app for wger
     fork: false
+    url: https://api.github.com/repos/wger-project/flutter
+    forks_url: https://api.github.com/repos/wger-project/flutter/forks
+    keys_url: https://api.github.com/repos/wger-project/flutter/keys{/key_id}
+    collaborators_url: https://api.github.com/repos/wger-project/flutter/collaborators{/collaborator}
+    teams_url: https://api.github.com/repos/wger-project/flutter/teams
+    hooks_url: https://api.github.com/repos/wger-project/flutter/hooks
+    issue_events_url: https://api.github.com/repos/wger-project/flutter/issues/events{/number}
+    events_url: https://api.github.com/repos/wger-project/flutter/events
+    assignees_url: https://api.github.com/repos/wger-project/flutter/assignees{/user}
+    branches_url: https://api.github.com/repos/wger-project/flutter/branches{/branch}
+    tags_url: https://api.github.com/repos/wger-project/flutter/tags
+    blobs_url: https://api.github.com/repos/wger-project/flutter/git/blobs{/sha}
+    git_tags_url: https://api.github.com/repos/wger-project/flutter/git/tags{/sha}
+    git_refs_url: https://api.github.com/repos/wger-project/flutter/git/refs{/sha}
+    trees_url: https://api.github.com/repos/wger-project/flutter/git/trees{/sha}
+    statuses_url: https://api.github.com/repos/wger-project/flutter/statuses/{sha}
+    languages_url: https://api.github.com/repos/wger-project/flutter/languages
+    stargazers_url: https://api.github.com/repos/wger-project/flutter/stargazers
+    contributors_url: https://api.github.com/repos/wger-project/flutter/contributors
+    subscribers_url: https://api.github.com/repos/wger-project/flutter/subscribers
+    subscription_url: https://api.github.com/repos/wger-project/flutter/subscription
+    commits_url: https://api.github.com/repos/wger-project/flutter/commits{/sha}
+    git_commits_url: https://api.github.com/repos/wger-project/flutter/git/commits{/sha}
+    comments_url: https://api.github.com/repos/wger-project/flutter/comments{/number}
+    issue_comment_url: https://api.github.com/repos/wger-project/flutter/issues/comments{/number}
+    contents_url: https://api.github.com/repos/wger-project/flutter/contents/{+path}
+    compare_url: https://api.github.com/repos/wger-project/flutter/compare/{base}...{head}
+    merges_url: https://api.github.com/repos/wger-project/flutter/merges
+    archive_url: https://api.github.com/repos/wger-project/flutter/{archive_format}{/ref}
+    downloads_url: https://api.github.com/repos/wger-project/flutter/downloads
+    issues_url: https://api.github.com/repos/wger-project/flutter/issues{/number}
+    pulls_url: https://api.github.com/repos/wger-project/flutter/pulls{/number}
+    milestones_url: https://api.github.com/repos/wger-project/flutter/milestones{/number}
+    notifications_url: https://api.github.com/repos/wger-project/flutter/notifications{?since,all,participating}
+    labels_url: https://api.github.com/repos/wger-project/flutter/labels{/name}
+    releases_url: https://api.github.com/repos/wger-project/flutter/releases{/id}
+    deployments_url: https://api.github.com/repos/wger-project/flutter/deployments
+    created_at: 2020-09-12T10:09:59Z
+    updated_at: 2026-07-27T16:42:44Z
+    pushed_at: 2026-07-27T00:54:38Z
+    git_url: git://github.com/wger-project/flutter.git
+    ssh_url: git@github.com:wger-project/flutter.git
+    clone_url: https://github.com/wger-project/flutter.git
+    svn_url: https://github.com/wger-project/flutter
+    homepage: ""
+    size: 400925
+    stargazers_count: 949
+    watchers_count: 949
+    language: Dart
+    has_issues: true
+    has_projects: true
+    has_downloads: false
+    has_wiki: false
+    has_pages: false
+    has_discussions: true
+    forks_count: 421
+    mirror_url: null
     archived: false
     disabled: false
-    private: false
-    visibility: public
-    stargazers_count: 917
-    forks_count: 401
-    pushed_at: 2026-06-04T04:48:14Z
+    open_issues_count: 124
     license:
+      key: agpl-3.0
+      name: GNU Affero General Public License v3.0
       spdx_id: AGPL-3.0
-      key: null
-      name: null
-      url: null
-    language: Dart
+      url: https://api.github.com/licenses/agpl-3.0
+      node_id: MDc6TGljZW5zZTE=
+    allow_forking: true
+    is_template: false
+    web_commit_signoff_required: false
+    has_pull_requests: true
+    pull_request_creation_policy: all
     topics:
       - dart
       - fitness
-      - gym
       - flutter
+      - gym
       - hacktoberfest
-      - workout
       - wger
+      - workout
+    visibility: public
+    forks: 421
+    open_issues: 124
+    watchers: 949
+    default_branch: master
+    permissions:
+      admin: false
+      maintain: false
+      push: false
+      triage: false
+      pull: false
+    temp_clone_token: ""
+    custom_properties: {}
+    organization:
+      login: wger-project
+      id: 17430347
+      node_id: MDEyOk9yZ2FuaXphdGlvbjE3NDMwMzQ3
+      avatar_url: https://avatars.githubusercontent.com/u/17430347?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/wger-project
+      html_url: https://github.com/wger-project
+      followers_url: https://api.github.com/users/wger-project/followers
+      following_url: https://api.github.com/users/wger-project/following{/other_user}
+      gists_url: https://api.github.com/users/wger-project/gists{/gist_id}
+      starred_url: https://api.github.com/users/wger-project/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/wger-project/subscriptions
+      organizations_url: https://api.github.com/users/wger-project/orgs
+      repos_url: https://api.github.com/users/wger-project/repos
+      events_url: https://api.github.com/users/wger-project/events{/privacy}
+      received_events_url: https://api.github.com/users/wger-project/received_events
+      type: Organization
+      user_view_type: public
+      site_admin: false
+    network_count: 421
+    subscribers_count: 18
   activity:
-    monthlyCommits: []
-    totalCommitsKnown: 0
-    openPullRequests: 0
+    monthlyCommits:
+      - month: 2026-02
+        commits: 0
+      - month: 2026-03
+        commits: 0
+      - month: 2026-04
+        commits: 0
+      - month: 2026-05
+        commits: 0
+      - month: 2026-06
+        commits: 26
+      - month: 2026-07
+        commits: 74
+    totalCommitsKnown: 4642
+    openPullRequests: 39
+    contributorsKnown: 338
   sync:
-    syncedAt: 2026-06-07T15:24:51.449Z
+    syncedAt: 2026-07-28T09:32:50.318Z
     apiVersion: rest-v3
-    source: migrate-legacy
+    source: github-actions
+  languages:
+    Dart: 3183349
+    C++: 28092
+    CMake: 20178
+    Python: 5525
+    Ruby: 4692
+    Swift: 2385
+    HTML: 1513
+    C: 1425
+    Shell: 788
+    Kotlin: 120
+    Objective-C: 38
+  latestRelease:
+    url: https://api.github.com/repos/wger-project/flutter/releases/359386138
+    assets_url: https://api.github.com/repos/wger-project/flutter/releases/359386138/assets
+    upload_url: https://uploads.github.com/repos/wger-project/flutter/releases/359386138/assets{?name,label}
+    html_url: https://github.com/wger-project/flutter/releases/tag/2.0.2
+    id: 359386138
+    author:
+      login: github-actions[bot]
+      id: 41898282
+      node_id: MDM6Qm90NDE4OTgyODI=
+      avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/github-actions%5Bbot%5D
+      html_url: https://github.com/apps/github-actions
+      followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+      following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+      gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+      starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+      organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+      repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+      events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+      received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+      type: Bot
+      user_view_type: public
+      site_admin: false
+    node_id: RE_kwDOEZQYSs4Va8wa
+    tag_name: 2.0.2
+    target_commitish: master
+    name: 2.0.2
+    draft: false
+    immutable: false
+    prerelease: false
+    created_at: 2026-07-24T15:03:38Z
+    updated_at: 2026-07-24T15:18:13Z
+    published_at: 2026-07-24T15:18:13Z
+    assets:
+      - url: https://api.github.com/repos/wger-project/flutter/releases/assets/488538072
+        id: 488538072
+        node_id: RA_kwDOEZQYSs4dHn_Y
+        name: app-release.aab
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/x-authorware-bin
+        state: uploaded
+        size: 93490160
+        digest: sha256:a5b766270e6fec7544cd624a37f365c9c8341a3e4953fb841e2a8616b0ec6039
+        download_count: 2
+        created_at: 2026-07-24T15:18:07Z
+        updated_at: 2026-07-24T15:18:12Z
+        browser_download_url: https://github.com/wger-project/flutter/releases/download/2.0.2/app-release.aab
+      - url: https://api.github.com/repos/wger-project/flutter/releases/assets/488538076
+        id: 488538076
+        node_id: RA_kwDOEZQYSs4dHn_c
+        name: app-release.apk
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 96214305
+        digest: sha256:8c0d8408b4a3b1df54f3c92172b82fe2f1facbbdcef41fd67999b4ef98a5baac
+        download_count: 168
+        created_at: 2026-07-24T15:18:07Z
+        updated_at: 2026-07-24T15:18:12Z
+        browser_download_url: https://github.com/wger-project/flutter/releases/download/2.0.2/app-release.apk
+      - url: https://api.github.com/repos/wger-project/flutter/releases/assets/488538071
+        id: 488538071
+        node_id: RA_kwDOEZQYSs4dHn_X
+        name: linux-x64.tar.gz
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/gzip
+        state: uploaded
+        size: 17598867
+        digest: sha256:2f05ff84af231055c1b2d9ca793ee65268217c4a25164ca4b2cd3d5455a4abe1
+        download_count: 1
+        created_at: 2026-07-24T15:18:07Z
+        updated_at: 2026-07-24T15:18:09Z
+        browser_download_url: https://github.com/wger-project/flutter/releases/download/2.0.2/linux-x64.tar.gz
+      - url: https://api.github.com/repos/wger-project/flutter/releases/assets/488538075
+        id: 488538075
+        node_id: RA_kwDOEZQYSs4dHn_b
+        name: Runner.app.zip
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/zip
+        state: uploaded
+        size: 14039360
+        digest: sha256:0e90abc132d00bde3c1b4e15a32f6bde32bd520bc9332090ea4a8bff89889b70
+        download_count: 1
+        created_at: 2026-07-24T15:18:07Z
+        updated_at: 2026-07-24T15:18:08Z
+        browser_download_url: https://github.com/wger-project/flutter/releases/download/2.0.2/Runner.app.zip
+      - url: https://api.github.com/repos/wger-project/flutter/releases/assets/488538070
+        id: 488538070
+        node_id: RA_kwDOEZQYSs4dHn_W
+        name: Runner.xcarchive.zip
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/zip
+        state: uploaded
+        size: 59478531
+        digest: sha256:42c262357d87d69997abbb5b3798d2c82bb168dd9af82cf709851a2089a1a698
+        download_count: 2
+        created_at: 2026-07-24T15:18:07Z
+        updated_at: 2026-07-24T15:18:11Z
+        browser_download_url: https://github.com/wger-project/flutter/releases/download/2.0.2/Runner.xcarchive.zip
+      - url: https://api.github.com/repos/wger-project/flutter/releases/assets/488538074
+        id: 488538074
+        node_id: RA_kwDOEZQYSs4dHn_a
+        name: web-wasm.tar.gz
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/gzip
+        state: uploaded
+        size: 18314097
+        digest: sha256:119a5cbcd34ed8fbfce8594f7042a152588d5600c6db5fde5fdeafe2fa42bea1
+        download_count: 1
+        created_at: 2026-07-24T15:18:07Z
+        updated_at: 2026-07-24T15:18:09Z
+        browser_download_url: https://github.com/wger-project/flutter/releases/download/2.0.2/web-wasm.tar.gz
+      - url: https://api.github.com/repos/wger-project/flutter/releases/assets/488538069
+        id: 488538069
+        node_id: RA_kwDOEZQYSs4dHn_V
+        name: web.tar.gz
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/gzip
+        state: uploaded
+        size: 16070400
+        digest: sha256:69d9c99f3d83c18ef37d68c6ab3474f5d9b495828daa9bfc4c93d190846cb769
+        download_count: 1
+        created_at: 2026-07-24T15:18:07Z
+        updated_at: 2026-07-24T15:18:09Z
+        browser_download_url: https://github.com/wger-project/flutter/releases/download/2.0.2/web.tar.gz
+      - url: https://api.github.com/repos/wger-project/flutter/releases/assets/488538077
+        id: 488538077
+        node_id: RA_kwDOEZQYSs4dHn_d
+        name: wger.app.zip
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/zip
+        state: uploaded
+        size: 89499093
+        digest: sha256:7d6d23ded6b69de73ffb4ab52b5277530cfe292b61cc78a338a736f65de35fb7
+        download_count: 1
+        created_at: 2026-07-24T15:18:07Z
+        updated_at: 2026-07-24T15:18:12Z
+        browser_download_url: https://github.com/wger-project/flutter/releases/download/2.0.2/wger.app.zip
+      - url: https://api.github.com/repos/wger-project/flutter/releases/assets/488538073
+        id: 488538073
+        node_id: RA_kwDOEZQYSs4dHn_Z
+        name: windows-x64.zip
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/zip
+        state: uploaded
+        size: 20153675
+        digest: sha256:12b77d7fbd42e1b60f0149142b77f3a2e0c66a1d2ad21f33ad3e80bef1b077a4
+        download_count: 1
+        created_at: 2026-07-24T15:18:07Z
+        updated_at: 2026-07-24T15:18:09Z
+        browser_download_url: https://github.com/wger-project/flutter/releases/download/2.0.2/windows-x64.zip
+    tarball_url: https://api.github.com/repos/wger-project/flutter/tarball/2.0.2
+    zipball_url: https://api.github.com/repos/wger-project/flutter/zipball/2.0.2
+    body: >-
+      <!-- Release notes generated using configuration in .github/release.yml at 2.0.2 -->
+
+
+      ## What's Changed
+
+      ### Features
+
+      * Folder restructuring by @rolandgeider in https://github.com/wger-project/flutter/pull/1249
+
+      * feat(gym-mode): add logs history scope and deduplication controls (#1240) by @pankaj-basnet
+      in https://github.com/wger-project/flutter/pull/1256
+
+      * Translations update from Hosted Weblate by @weblate in
+      https://github.com/wger-project/flutter/pull/1234
+
+      * fix: make routineId nullable to prevent crash on free workout logs by @mmustafasenoglu in
+      https://github.com/wger-project/flutter/pull/1257
+
+      * Translations update from Hosted Weblate by @weblate in
+      https://github.com/wger-project/flutter/pull/1269
+
+      * Add elapsed workout timer to gym mode by @Arya-185 in
+      https://github.com/wger-project/flutter/pull/1276
+
+      ### Dependencies
+
+      * Bump actions/checkout from 6 to 7 by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1226
+
+      * Bump package_info_plus from 10.1.0 to 10.2.0 by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1241
+
+      * Bump connectivity_plus from 7.1.1 to 7.2.0 by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1242
+
+      * Bump powersync from 2.3.0 to 2.3.1 by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1243
+
+      * Bump equatable from 2.0.8 to 2.1.0 by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1254
+
+      * Bump app_links from 7.1.2 to 7.2.0 by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1253
+
+      * Bump video_player from 2.11.1 to 2.12.0 by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1268
+
+      * Bump package_info_plus from 10.2.0 to 10.2.1 by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1272
+
+      * Bump app_links from 7.2.0 to 7.2.1 by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1267
+
+      * Bump image_picker from 1.2.2 to 1.2.3 by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1252
+
+      * Bump faraday from 1.10.5 to 1.10.6 in /ios by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1246
+
+      * Bump excon from 0.112.0 to 1.5.0 in /ios by @dependabot[bot] in
+      https://github.com/wger-project/flutter/pull/1277
+
+
+      ## New Contributors
+
+      * @mmustafasenoglu made their first contribution in
+      https://github.com/wger-project/flutter/pull/1257
+
+      * @Arya-185 made their first contribution in https://github.com/wger-project/flutter/pull/1276
+
+
+      **Full Changelog**: https://github.com/wger-project/flutter/compare/2.0.1...2.0.2
+    reactions:
+      url: https://api.github.com/repos/wger-project/flutter/releases/359386138/reactions
+      total_count: 1
+      "+1": 0
+      "-1": 0
+      laugh: 0
+      hooray: 0
+      confused: 0
+      heart: 0
+      rocket: 1
+      eyes: 0
+    mentions_count: 6
+  files:
+    readme: true
+    contributing: false
+    codeOfConduct: false
+    security: false
+    issueTemplates: true
+    pullRequestTemplate: true
+  labels:
+    - name: good first issue
+      color: 7057ff
+      description: Good for newcomers
 health:
   status: active
   tier: curated
