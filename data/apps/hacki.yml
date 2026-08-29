@@ -24,43 +24,319 @@ stack:
       role: mobile-framework
 github:
   repository:
+    id: 441600120
+    node_id: R_kgDOGlJIeA
+    name: Hacki
     full_name: Livinglist/Hacki
+    private: false
+    owner:
+      login: Livinglist
+      id: 7277662
+      node_id: MDQ6VXNlcjcyNzc2NjI=
+      avatar_url: https://avatars.githubusercontent.com/u/7277662?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/Livinglist
+      html_url: https://github.com/Livinglist
+      followers_url: https://api.github.com/users/Livinglist/followers
+      following_url: https://api.github.com/users/Livinglist/following{/other_user}
+      gists_url: https://api.github.com/users/Livinglist/gists{/gist_id}
+      starred_url: https://api.github.com/users/Livinglist/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/Livinglist/subscriptions
+      organizations_url: https://api.github.com/users/Livinglist/orgs
+      repos_url: https://api.github.com/users/Livinglist/repos
+      events_url: https://api.github.com/users/Livinglist/events{/privacy}
+      received_events_url: https://api.github.com/users/Livinglist/received_events
+      type: User
+      user_view_type: public
+      site_admin: false
     html_url: https://github.com/Livinglist/Hacki
-    description: A Hacker News reader
+    description: A highly customizable, open-source Hacker News client.
     fork: false
+    url: https://api.github.com/repos/Livinglist/Hacki
+    forks_url: https://api.github.com/repos/Livinglist/Hacki/forks
+    keys_url: https://api.github.com/repos/Livinglist/Hacki/keys{/key_id}
+    collaborators_url: https://api.github.com/repos/Livinglist/Hacki/collaborators{/collaborator}
+    teams_url: https://api.github.com/repos/Livinglist/Hacki/teams
+    hooks_url: https://api.github.com/repos/Livinglist/Hacki/hooks
+    issue_events_url: https://api.github.com/repos/Livinglist/Hacki/issues/events{/number}
+    events_url: https://api.github.com/repos/Livinglist/Hacki/events
+    assignees_url: https://api.github.com/repos/Livinglist/Hacki/assignees{/user}
+    branches_url: https://api.github.com/repos/Livinglist/Hacki/branches{/branch}
+    tags_url: https://api.github.com/repos/Livinglist/Hacki/tags
+    blobs_url: https://api.github.com/repos/Livinglist/Hacki/git/blobs{/sha}
+    git_tags_url: https://api.github.com/repos/Livinglist/Hacki/git/tags{/sha}
+    git_refs_url: https://api.github.com/repos/Livinglist/Hacki/git/refs{/sha}
+    trees_url: https://api.github.com/repos/Livinglist/Hacki/git/trees{/sha}
+    statuses_url: https://api.github.com/repos/Livinglist/Hacki/statuses/{sha}
+    languages_url: https://api.github.com/repos/Livinglist/Hacki/languages
+    stargazers_url: https://api.github.com/repos/Livinglist/Hacki/stargazers
+    contributors_url: https://api.github.com/repos/Livinglist/Hacki/contributors
+    subscribers_url: https://api.github.com/repos/Livinglist/Hacki/subscribers
+    subscription_url: https://api.github.com/repos/Livinglist/Hacki/subscription
+    commits_url: https://api.github.com/repos/Livinglist/Hacki/commits{/sha}
+    git_commits_url: https://api.github.com/repos/Livinglist/Hacki/git/commits{/sha}
+    comments_url: https://api.github.com/repos/Livinglist/Hacki/comments{/number}
+    issue_comment_url: https://api.github.com/repos/Livinglist/Hacki/issues/comments{/number}
+    contents_url: https://api.github.com/repos/Livinglist/Hacki/contents/{+path}
+    compare_url: https://api.github.com/repos/Livinglist/Hacki/compare/{base}...{head}
+    merges_url: https://api.github.com/repos/Livinglist/Hacki/merges
+    archive_url: https://api.github.com/repos/Livinglist/Hacki/{archive_format}{/ref}
+    downloads_url: https://api.github.com/repos/Livinglist/Hacki/downloads
+    issues_url: https://api.github.com/repos/Livinglist/Hacki/issues{/number}
+    pulls_url: https://api.github.com/repos/Livinglist/Hacki/pulls{/number}
+    milestones_url: https://api.github.com/repos/Livinglist/Hacki/milestones{/number}
+    notifications_url: https://api.github.com/repos/Livinglist/Hacki/notifications{?since,all,participating}
+    labels_url: https://api.github.com/repos/Livinglist/Hacki/labels{/name}
+    releases_url: https://api.github.com/repos/Livinglist/Hacki/releases{/id}
+    deployments_url: https://api.github.com/repos/Livinglist/Hacki/deployments
+    created_at: 2021-12-25T03:59:50Z
+    updated_at: 2026-08-29T12:40:56Z
+    pushed_at: 2026-08-29T03:24:57Z
+    git_url: git://github.com/Livinglist/Hacki.git
+    ssh_url: git@github.com:Livinglist/Hacki.git
+    clone_url: https://github.com/Livinglist/Hacki.git
+    svn_url: https://github.com/Livinglist/Hacki
+    homepage: https://livinglist.github.io/Hacki/
+    size: 291424
+    stargazers_count: 1590
+    watchers_count: 1590
+    language: Dart
+    has_issues: true
+    has_projects: false
+    has_downloads: false
+    has_wiki: false
+    has_pages: true
+    has_discussions: false
+    forks_count: 130
+    mirror_url: null
     archived: false
     disabled: false
-    private: false
-    visibility: public
-    stargazers_count: 1561
-    forks_count: 126
-    pushed_at: 2026-06-06T01:50:41Z
+    open_issues_count: 35
     license:
+      key: gpl-3.0
+      name: GNU General Public License v3.0
       spdx_id: GPL-3.0
-      key: null
-      name: null
-      url: null
-    language: Dart
+      url: https://api.github.com/licenses/gpl-3.0
+      node_id: MDc6TGljZW5zZTk=
+    allow_forking: true
+    is_template: false
+    web_commit_signoff_required: false
+    has_pull_requests: true
+    pull_request_creation_policy: all
     topics:
       - android
-      - dart
-      - ios
-      - hacker-news
-      - mobile-app
-      - ios-app
       - android-app
+      - dart
       - flutter
-      - hacker-news-client
-      - flutter-bloc
       - flutter-app
+      - flutter-bloc
+      - hacker-news
+      - hacker-news-client
+      - ios
+      - ios-app
+      - mobile-app
+    visibility: public
+    forks: 130
+    open_issues: 35
+    watchers: 1590
+    default_branch: master
+    permissions:
+      admin: false
+      maintain: false
+      push: false
+      triage: false
+      pull: false
+    temp_clone_token: ""
+    network_count: 130
+    subscribers_count: 10
   activity:
-    monthlyCommits: []
-    totalCommitsKnown: 0
-    openPullRequests: 0
+    monthlyCommits:
+      - month: 2026-03
+        commits: 0
+      - month: 2026-04
+        commits: 36
+      - month: 2026-05
+        commits: 9
+      - month: 2026-06
+        commits: 1
+      - month: 2026-07
+        commits: 17
+      - month: 2026-08
+        commits: 37
+    totalCommitsKnown: 898
+    openPullRequests: 3
+    contributorsKnown: 5
   sync:
-    syncedAt: 2026-06-07T15:24:29.500Z
+    syncedAt: 2026-08-29T12:55:25.244Z
     apiVersion: rest-v3
-    source: migrate-legacy
+    source: github-actions
+  languages:
+    Dart: 1002021
+    Swift: 65339
+    HTML: 28751
+    Ruby: 7097
+    Kotlin: 2633
+    Java: 1945
+    Objective-C: 38
+  latestRelease:
+    url: https://api.github.com/repos/Livinglist/Hacki/releases/378861398
+    assets_url: https://api.github.com/repos/Livinglist/Hacki/releases/378861398/assets
+    upload_url: https://uploads.github.com/repos/Livinglist/Hacki/releases/378861398/assets{?name,label}
+    html_url: https://github.com/Livinglist/Hacki/releases/tag/v3.7.1
+    id: 378861398
+    author:
+      login: Livinglist
+      id: 7277662
+      node_id: MDQ6VXNlcjcyNzc2NjI=
+      avatar_url: https://avatars.githubusercontent.com/u/7277662?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/Livinglist
+      html_url: https://github.com/Livinglist
+      followers_url: https://api.github.com/users/Livinglist/followers
+      following_url: https://api.github.com/users/Livinglist/following{/other_user}
+      gists_url: https://api.github.com/users/Livinglist/gists{/gist_id}
+      starred_url: https://api.github.com/users/Livinglist/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/Livinglist/subscriptions
+      organizations_url: https://api.github.com/users/Livinglist/orgs
+      repos_url: https://api.github.com/users/Livinglist/repos
+      events_url: https://api.github.com/users/Livinglist/events{/privacy}
+      received_events_url: https://api.github.com/users/Livinglist/received_events
+      type: User
+      user_view_type: public
+      site_admin: false
+    node_id: RE_kwDOGlJIeM4WlPdW
+    tag_name: v3.7.1
+    target_commitish: master
+    name: v3.7.1
+    draft: false
+    immutable: true
+    prerelease: false
+    created_at: 2026-08-28T23:42:30Z
+    updated_at: 2026-08-29T03:24:57Z
+    published_at: 2026-08-29T03:24:57Z
+    assets:
+      - url: https://api.github.com/repos/Livinglist/Hacki/releases/assets/534667062
+        id: 534667062
+        node_id: RA_kwDOGlJIeM4f3l82
+        name: app-arm64-v8a-release.apk
+        label: null
+        uploader:
+          login: Livinglist
+          id: 7277662
+          node_id: MDQ6VXNlcjcyNzc2NjI=
+          avatar_url: https://avatars.githubusercontent.com/u/7277662?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/Livinglist
+          html_url: https://github.com/Livinglist
+          followers_url: https://api.github.com/users/Livinglist/followers
+          following_url: https://api.github.com/users/Livinglist/following{/other_user}
+          gists_url: https://api.github.com/users/Livinglist/gists{/gist_id}
+          starred_url: https://api.github.com/users/Livinglist/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/Livinglist/subscriptions
+          organizations_url: https://api.github.com/users/Livinglist/orgs
+          repos_url: https://api.github.com/users/Livinglist/repos
+          events_url: https://api.github.com/users/Livinglist/events{/privacy}
+          received_events_url: https://api.github.com/users/Livinglist/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 32859210
+        digest: sha256:e8f223127140d41cc07fc222c2f94e365e2fdfc0e79e580f066220c9778ebae9
+        download_count: 190
+        created_at: 2026-08-29T03:23:52Z
+        updated_at: 2026-08-29T03:24:14Z
+        browser_download_url: https://github.com/Livinglist/Hacki/releases/download/v3.7.1/app-arm64-v8a-release.apk
+      - url: https://api.github.com/repos/Livinglist/Hacki/releases/assets/534666175
+        id: 534666175
+        node_id: RA_kwDOGlJIeM4f3lu_
+        name: app-armeabi-v7a-release.apk
+        label: null
+        uploader:
+          login: Livinglist
+          id: 7277662
+          node_id: MDQ6VXNlcjcyNzc2NjI=
+          avatar_url: https://avatars.githubusercontent.com/u/7277662?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/Livinglist
+          html_url: https://github.com/Livinglist
+          followers_url: https://api.github.com/users/Livinglist/followers
+          following_url: https://api.github.com/users/Livinglist/following{/other_user}
+          gists_url: https://api.github.com/users/Livinglist/gists{/gist_id}
+          starred_url: https://api.github.com/users/Livinglist/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/Livinglist/subscriptions
+          organizations_url: https://api.github.com/users/Livinglist/orgs
+          repos_url: https://api.github.com/users/Livinglist/repos
+          events_url: https://api.github.com/users/Livinglist/events{/privacy}
+          received_events_url: https://api.github.com/users/Livinglist/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 31545878
+        digest: sha256:a6c53ef3ba4b74065af0b58ba73a1e3077021f80b9364b89a731697d0b3c412d
+        download_count: 3
+        created_at: 2026-08-29T03:22:54Z
+        updated_at: 2026-08-29T03:23:01Z
+        browser_download_url: https://github.com/Livinglist/Hacki/releases/download/v3.7.1/app-armeabi-v7a-release.apk
+      - url: https://api.github.com/repos/Livinglist/Hacki/releases/assets/534666010
+        id: 534666010
+        node_id: RA_kwDOGlJIeM4f3lsa
+        name: app-x86_64-release.apk
+        label: null
+        uploader:
+          login: Livinglist
+          id: 7277662
+          node_id: MDQ6VXNlcjcyNzc2NjI=
+          avatar_url: https://avatars.githubusercontent.com/u/7277662?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/Livinglist
+          html_url: https://github.com/Livinglist
+          followers_url: https://api.github.com/users/Livinglist/followers
+          following_url: https://api.github.com/users/Livinglist/following{/other_user}
+          gists_url: https://api.github.com/users/Livinglist/gists{/gist_id}
+          starred_url: https://api.github.com/users/Livinglist/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/Livinglist/subscriptions
+          organizations_url: https://api.github.com/users/Livinglist/orgs
+          repos_url: https://api.github.com/users/Livinglist/repos
+          events_url: https://api.github.com/users/Livinglist/events{/privacy}
+          received_events_url: https://api.github.com/users/Livinglist/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 34146374
+        digest: sha256:77f2ccba05b02cd211bfeb8bea7caf2cb3b9002c1045c05c0a6a9797d2e81f91
+        download_count: 2
+        created_at: 2026-08-29T03:22:43Z
+        updated_at: 2026-08-29T03:22:54Z
+        browser_download_url: https://github.com/Livinglist/Hacki/releases/download/v3.7.1/app-x86_64-release.apk
+    tarball_url: https://api.github.com/repos/Livinglist/Hacki/tarball/v3.7.1
+    zipball_url: https://api.github.com/repos/Livinglist/Hacki/zipball/v3.7.1
+    body: "## Fixed\r
+
+      \r
+
+      - Fixed unresponsive ancestor comments sheet\r
+
+      - Fixed QR code favorites export\r
+
+      - Improved image preview on story tile\r
+
+      \r
+
+      **Full Changelog**: https://github.com/Livinglist/Hacki/compare/v3.7.0...v3.7.1"
+  files:
+    readme: true
+    contributing: false
+    codeOfConduct: false
+    security: false
+    issueTemplates: false
+    pullRequestTemplate: false
+  labels: []
 health:
   status: active
   tier: curated
