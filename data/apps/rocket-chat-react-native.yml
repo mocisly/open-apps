@@ -25,38 +25,391 @@ stack:
       role: mobile-framework
 github:
   repository:
+    id: 99262683
+    node_id: MDEwOlJlcG9zaXRvcnk5OTI2MjY4Mw==
+    name: Rocket.Chat.ReactNative
     full_name: RocketChat/Rocket.Chat.ReactNative
+    private: false
+    owner:
+      login: RocketChat
+      id: 12508788
+      node_id: MDEyOk9yZ2FuaXphdGlvbjEyNTA4Nzg4
+      avatar_url: https://avatars.githubusercontent.com/u/12508788?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/RocketChat
+      html_url: https://github.com/RocketChat
+      followers_url: https://api.github.com/users/RocketChat/followers
+      following_url: https://api.github.com/users/RocketChat/following{/other_user}
+      gists_url: https://api.github.com/users/RocketChat/gists{/gist_id}
+      starred_url: https://api.github.com/users/RocketChat/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/RocketChat/subscriptions
+      organizations_url: https://api.github.com/users/RocketChat/orgs
+      repos_url: https://api.github.com/users/RocketChat/repos
+      events_url: https://api.github.com/users/RocketChat/events{/privacy}
+      received_events_url: https://api.github.com/users/RocketChat/received_events
+      type: Organization
+      user_view_type: public
+      site_admin: false
     html_url: https://github.com/RocketChat/Rocket.Chat.ReactNative
-    description: Official Rocket.Chat mobile client — open-source team communication, channels, threads,
-      file sharing, voice/video calls, end-to-end encrypted.
+    description: The Secure CommsOS™ for mission-critical operations
     fork: false
+    url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative
+    forks_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/forks
+    keys_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/keys{/key_id}
+    collaborators_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/collaborators{/collaborator}
+    teams_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/teams
+    hooks_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/hooks
+    issue_events_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/issues/events{/number}
+    events_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/events
+    assignees_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/assignees{/user}
+    branches_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/branches{/branch}
+    tags_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/tags
+    blobs_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/git/blobs{/sha}
+    git_tags_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/git/tags{/sha}
+    git_refs_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/git/refs{/sha}
+    trees_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/git/trees{/sha}
+    statuses_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/statuses/{sha}
+    languages_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/languages
+    stargazers_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/stargazers
+    contributors_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/contributors
+    subscribers_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/subscribers
+    subscription_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/subscription
+    commits_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/commits{/sha}
+    git_commits_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/git/commits{/sha}
+    comments_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/comments{/number}
+    issue_comment_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/issues/comments{/number}
+    contents_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/contents/{+path}
+    compare_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/compare/{base}...{head}
+    merges_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/merges
+    archive_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/{archive_format}{/ref}
+    downloads_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/downloads
+    issues_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/issues{/number}
+    pulls_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/pulls{/number}
+    milestones_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/milestones{/number}
+    notifications_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/notifications{?since,all,participating}
+    labels_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/labels{/name}
+    releases_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/releases{/id}
+    deployments_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/deployments
+    created_at: 2017-08-03T18:21:33Z
+    updated_at: 2026-09-07T16:52:36Z
+    pushed_at: 2026-09-07T18:34:38Z
+    git_url: git://github.com/RocketChat/Rocket.Chat.ReactNative.git
+    ssh_url: git@github.com:RocketChat/Rocket.Chat.ReactNative.git
+    clone_url: https://github.com/RocketChat/Rocket.Chat.ReactNative.git
+    svn_url: https://github.com/RocketChat/Rocket.Chat.ReactNative
+    homepage: https://rocket.chat
+    size: 377317
+    stargazers_count: 2413
+    watchers_count: 2413
+    language: TypeScript
+    has_issues: true
+    has_projects: true
+    has_downloads: false
+    has_wiki: false
+    has_pages: false
+    has_discussions: true
+    forks_count: 1465
+    mirror_url: null
     archived: false
     disabled: false
-    private: false
-    visibility: public
-    stargazers_count: 2391
-    forks_count: 1000
-    pushed_at: 2026-06-03T18:43:36Z
+    open_issues_count: 477
     license:
+      key: mit
+      name: MIT License
       spdx_id: MIT
-      key: null
-      name: null
-      url: null
-    language: TypeScript
+      url: https://api.github.com/licenses/mit
+      node_id: MDc6TGljZW5zZTEz
+    allow_forking: true
+    is_template: false
+    web_commit_signoff_required: false
+    has_pull_requests: true
+    pull_request_creation_policy: all
     topics:
       - android
       - chat
+      - hacktoberfest
       - ios
       - react-native
-      - hacktoberfest
+    visibility: public
+    forks: 1465
+    open_issues: 477
+    watchers: 2413
+    default_branch: develop
+    permissions:
+      admin: false
+      maintain: false
+      push: false
+      triage: false
+      pull: false
+    temp_clone_token: ""
+    custom_properties: {}
+    organization:
+      login: RocketChat
+      id: 12508788
+      node_id: MDEyOk9yZ2FuaXphdGlvbjEyNTA4Nzg4
+      avatar_url: https://avatars.githubusercontent.com/u/12508788?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/RocketChat
+      html_url: https://github.com/RocketChat
+      followers_url: https://api.github.com/users/RocketChat/followers
+      following_url: https://api.github.com/users/RocketChat/following{/other_user}
+      gists_url: https://api.github.com/users/RocketChat/gists{/gist_id}
+      starred_url: https://api.github.com/users/RocketChat/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/RocketChat/subscriptions
+      organizations_url: https://api.github.com/users/RocketChat/orgs
+      repos_url: https://api.github.com/users/RocketChat/repos
+      events_url: https://api.github.com/users/RocketChat/events{/privacy}
+      received_events_url: https://api.github.com/users/RocketChat/received_events
+      type: Organization
+      user_view_type: public
+      site_admin: false
+    network_count: 1465
+    subscribers_count: 65
   activity:
-    monthlyCommits: []
-    totalCommitsKnown: 0
-    openPullRequests: 0
+    monthlyCommits:
+      - month: 2026-04
+        commits: 0
+      - month: 2026-05
+        commits: 0
+      - month: 2026-06
+        commits: 33
+      - month: 2026-07
+        commits: 24
+      - month: 2026-08
+        commits: 34
+      - month: 2026-09
+        commits: 9
+    totalCommitsKnown: 3431
+    openPullRequests: 255
+    contributorsKnown: 139
   sync:
-    syncedAt: 2026-06-07T15:24:42.330Z
+    syncedAt: 2026-09-08T11:56:03.811Z
     apiVersion: rest-v3
-    source: migrate-legacy
+    source: github-actions
+  languages:
+    TypeScript: 4279899
+    Swift: 216681
+    Kotlin: 178792
+    JavaScript: 157345
+    Java: 120744
+    Objective-C++: 19565
+    Objective-C: 16163
+    Ruby: 9893
+    C++: 7119
+    Shell: 3191
+    Makefile: 1527
+  latestRelease:
+    url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/releases/379897704
+    assets_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/releases/379897704/assets
+    upload_url: https://uploads.github.com/repos/RocketChat/Rocket.Chat.ReactNative/releases/379897704/assets{?name,label}
+    html_url: https://github.com/RocketChat/Rocket.Chat.ReactNative/releases/tag/4.76.0
+    id: 379897704
+    author:
+      login: diegolmello
+      id: 804994
+      node_id: MDQ6VXNlcjgwNDk5NA==
+      avatar_url: https://avatars.githubusercontent.com/u/804994?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/diegolmello
+      html_url: https://github.com/diegolmello
+      followers_url: https://api.github.com/users/diegolmello/followers
+      following_url: https://api.github.com/users/diegolmello/following{/other_user}
+      gists_url: https://api.github.com/users/diegolmello/gists{/gist_id}
+      starred_url: https://api.github.com/users/diegolmello/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/diegolmello/subscriptions
+      organizations_url: https://api.github.com/users/diegolmello/orgs
+      repos_url: https://api.github.com/users/diegolmello/repos
+      events_url: https://api.github.com/users/diegolmello/events{/privacy}
+      received_events_url: https://api.github.com/users/diegolmello/received_events
+      type: User
+      user_view_type: public
+      site_admin: false
+    node_id: RE_kwDOBeqg284WpMdo
+    tag_name: 4.76.0
+    target_commitish: master
+    name: 4.76.0
+    draft: false
+    immutable: false
+    prerelease: false
+    created_at: 2026-08-31T16:24:14Z
+    updated_at: 2026-08-31T17:00:21Z
+    published_at: 2026-08-31T17:00:21Z
+    assets:
+      - url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/releases/assets/538242992
+        id: 538242992
+        node_id: RA_kwDOBeqg284gFO-w
+        name: android-release.apk
+        label: null
+        uploader:
+          login: diegolmello
+          id: 804994
+          node_id: MDQ6VXNlcjgwNDk5NA==
+          avatar_url: https://avatars.githubusercontent.com/u/804994?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/diegolmello
+          html_url: https://github.com/diegolmello
+          followers_url: https://api.github.com/users/diegolmello/followers
+          following_url: https://api.github.com/users/diegolmello/following{/other_user}
+          gists_url: https://api.github.com/users/diegolmello/gists{/gist_id}
+          starred_url: https://api.github.com/users/diegolmello/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/diegolmello/subscriptions
+          organizations_url: https://api.github.com/users/diegolmello/orgs
+          repos_url: https://api.github.com/users/diegolmello/repos
+          events_url: https://api.github.com/users/diegolmello/events{/privacy}
+          received_events_url: https://api.github.com/users/diegolmello/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 203855972
+        digest: sha256:612d8226e768b910b0c8b37ed5bc537657e63e2c6ca569a930e7df220ff48c12
+        download_count: 150
+        created_at: 2026-08-31T16:29:20Z
+        updated_at: 2026-08-31T16:29:56Z
+        browser_download_url: https://github.com/RocketChat/Rocket.Chat.ReactNative/releases/download/4.76.0/android-release.apk
+      - url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/releases/assets/538242475
+        id: 538242475
+        node_id: RA_kwDOBeqg284gFO2r
+        name: ios-release.zip
+        label: null
+        uploader:
+          login: diegolmello
+          id: 804994
+          node_id: MDQ6VXNlcjgwNDk5NA==
+          avatar_url: https://avatars.githubusercontent.com/u/804994?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/diegolmello
+          html_url: https://github.com/diegolmello
+          followers_url: https://api.github.com/users/diegolmello/followers
+          following_url: https://api.github.com/users/diegolmello/following{/other_user}
+          gists_url: https://api.github.com/users/diegolmello/gists{/gist_id}
+          starred_url: https://api.github.com/users/diegolmello/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/diegolmello/subscriptions
+          organizations_url: https://api.github.com/users/diegolmello/orgs
+          repos_url: https://api.github.com/users/diegolmello/repos
+          events_url: https://api.github.com/users/diegolmello/events{/privacy}
+          received_events_url: https://api.github.com/users/diegolmello/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/zip
+        state: uploaded
+        size: 66164232
+        digest: sha256:9d4b3860607e717351ed2d2f6ef22e83b37cc7f0c0c609e308ff280c1f5d6b99
+        download_count: 10
+        created_at: 2026-08-31T16:28:42Z
+        updated_at: 2026-08-31T16:29:56Z
+        browser_download_url: https://github.com/RocketChat/Rocket.Chat.ReactNative/releases/download/4.76.0/ios-release.zip
+    tarball_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/tarball/4.76.0
+    zipball_url: https://api.github.com/repos/RocketChat/Rocket.Chat.ReactNative/zipball/4.76.0
+    body: "## What's Changed\r
+
+      \r
+
+      * feat: add tabular numbers by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7568\r
+
+      * fix: render mentions, emojis, and inline elements inside headings by @Rohit3523 in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6911\r
+
+      * fix: ISO format support in markdown component by @Rohit3523 in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/6943\r
+
+      * fix: resolve deep links by room id for channels and groups by @Rohit3523 in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7111\r
+
+      * fix: crop screen hidden behind navigation bar on iOS 26 by @Rohit3523 in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7529\r
+
+      * fix: UIKit block messages rendering with smaller font size by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7531\r
+
+      * fix(iOS): RoomItem Swipe not working after scroll by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7532\r
+
+      * fix(android): VideoConf notification accept and decline button hidden and touch not working
+      by @OtavioStasiak in https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7533\r
+
+      * fix: quote has no effect on older thread messages by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7535\r
+
+      * fix: delete background taller than its row on ServersHistory by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7536\r
+
+      * fix: Admin Panel content hidden behind bottom navigation bar by @Rohit3523 in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7538\r
+
+      * fix(db): move sendMessage reads and prepares inside the writer lock by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7546\r
+
+      * fix(db): move decryptPendingMessages prepares inside the writer lock by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7548\r
+
+      * fix(db): move deleteMessage finds and prepares inside the writer lock by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7550\r
+
+      * fix(db): move persistMessage lookups and prepares inside the writer lock by @OtavioStasiak
+      in https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7551\r
+
+      * fix: run handleDelete finds and prepares inside the writer lock by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7552\r
+
+      * fix(e2ee): re-fetch subscription inside the write in toggleRoomE2EE by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7554\r
+
+      * fix(ci): select shards for changes outside app and honor the release label by @diegolmello
+      in https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7555\r
+
+      * fix: re-fetch message inside the write in getThreadName by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7557\r
+
+      * fix: test case 11 and 12 flaky tests by @OtavioStasiak in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7564\r
+
+      * fix: force Google account chooser on OAuth login by @Rohit3523 in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7572\r
+
+      * fix: UIKit buttons not responding on some Android devices by @Rohit3523 in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7573\r
+
+      * fix: grant pull-requests write to build call sites in build-develop by @diegolmello in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7599\r
+
+      * chore(ci): apply least privilege permission to GitHub Actions by @yasnagat in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7350\r
+
+      * chore: OXC by @diegolmello in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7515\r
+
+      * chore: migrate typecheck to TypeScript 7.0 by @diegolmello in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7516\r
+
+      * chore: Bump version to 4.76.0 by @diegolmello in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7542\r
+
+      * chore: switch React Compiler to infer mode by @diegolmello in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7545\r
+
+      * chore: pin @rocket.chat/sdk to a specific commit hash by @Rohit3523 in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7569\r
+
+      * ci: route Maestro e2e selection through sniffler impact analysis by @diegolmello in
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/pull/7476\r
+
+      \r
+
+      **Full Changelog**:
+      https://github.com/RocketChat/Rocket.Chat.ReactNative/compare/4.75.0...4.76.0\r\n"
+    mentions_count: 4
+  files:
+    readme: true
+    contributing: true
+    codeOfConduct: false
+    security: true
+    issueTemplates: true
+    pullRequestTemplate: false
+  labels: []
 health:
   status: active
   tier: curated
