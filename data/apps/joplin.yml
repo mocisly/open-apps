@@ -26,50 +26,934 @@ stack:
       role: mobile-framework
 github:
   repository:
+    id: 79162682
+    node_id: MDEwOlJlcG9zaXRvcnk3OTE2MjY4Mg==
+    name: joplin
     full_name: laurent22/joplin
+    private: false
+    owner:
+      login: laurent22
+      id: 1285584
+      node_id: MDQ6VXNlcjEyODU1ODQ=
+      avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/laurent22
+      html_url: https://github.com/laurent22
+      followers_url: https://api.github.com/users/laurent22/followers
+      following_url: https://api.github.com/users/laurent22/following{/other_user}
+      gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+      starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+      organizations_url: https://api.github.com/users/laurent22/orgs
+      repos_url: https://api.github.com/users/laurent22/repos
+      events_url: https://api.github.com/users/laurent22/events{/privacy}
+      received_events_url: https://api.github.com/users/laurent22/received_events
+      type: User
+      user_view_type: public
+      site_admin: false
     html_url: https://github.com/laurent22/joplin
-    description: Joplin is a free, open source note taking and to-do application. The mobile client is
-      built with React Native and supports full sync via Nextcloud, Dropbox, OneDrive, WebDAV, and
-      Joplin Cloud.
+    description: Joplin - the privacy-focused note taking app with sync capabilities for Windows, macOS,
+      Linux, Android and iOS.
     fork: false
+    url: https://api.github.com/repos/laurent22/joplin
+    forks_url: https://api.github.com/repos/laurent22/joplin/forks
+    keys_url: https://api.github.com/repos/laurent22/joplin/keys{/key_id}
+    collaborators_url: https://api.github.com/repos/laurent22/joplin/collaborators{/collaborator}
+    teams_url: https://api.github.com/repos/laurent22/joplin/teams
+    hooks_url: https://api.github.com/repos/laurent22/joplin/hooks
+    issue_events_url: https://api.github.com/repos/laurent22/joplin/issues/events{/number}
+    events_url: https://api.github.com/repos/laurent22/joplin/events
+    assignees_url: https://api.github.com/repos/laurent22/joplin/assignees{/user}
+    branches_url: https://api.github.com/repos/laurent22/joplin/branches{/branch}
+    tags_url: https://api.github.com/repos/laurent22/joplin/tags
+    blobs_url: https://api.github.com/repos/laurent22/joplin/git/blobs{/sha}
+    git_tags_url: https://api.github.com/repos/laurent22/joplin/git/tags{/sha}
+    git_refs_url: https://api.github.com/repos/laurent22/joplin/git/refs{/sha}
+    trees_url: https://api.github.com/repos/laurent22/joplin/git/trees{/sha}
+    statuses_url: https://api.github.com/repos/laurent22/joplin/statuses/{sha}
+    languages_url: https://api.github.com/repos/laurent22/joplin/languages
+    stargazers_url: https://api.github.com/repos/laurent22/joplin/stargazers
+    contributors_url: https://api.github.com/repos/laurent22/joplin/contributors
+    subscribers_url: https://api.github.com/repos/laurent22/joplin/subscribers
+    subscription_url: https://api.github.com/repos/laurent22/joplin/subscription
+    commits_url: https://api.github.com/repos/laurent22/joplin/commits{/sha}
+    git_commits_url: https://api.github.com/repos/laurent22/joplin/git/commits{/sha}
+    comments_url: https://api.github.com/repos/laurent22/joplin/comments{/number}
+    issue_comment_url: https://api.github.com/repos/laurent22/joplin/issues/comments{/number}
+    contents_url: https://api.github.com/repos/laurent22/joplin/contents/{+path}
+    compare_url: https://api.github.com/repos/laurent22/joplin/compare/{base}...{head}
+    merges_url: https://api.github.com/repos/laurent22/joplin/merges
+    archive_url: https://api.github.com/repos/laurent22/joplin/{archive_format}{/ref}
+    downloads_url: https://api.github.com/repos/laurent22/joplin/downloads
+    issues_url: https://api.github.com/repos/laurent22/joplin/issues{/number}
+    pulls_url: https://api.github.com/repos/laurent22/joplin/pulls{/number}
+    milestones_url: https://api.github.com/repos/laurent22/joplin/milestones{/number}
+    notifications_url: https://api.github.com/repos/laurent22/joplin/notifications{?since,all,participating}
+    labels_url: https://api.github.com/repos/laurent22/joplin/labels{/name}
+    releases_url: https://api.github.com/repos/laurent22/joplin/releases{/id}
+    deployments_url: https://api.github.com/repos/laurent22/joplin/deployments
+    created_at: 2017-01-16T21:49:41Z
+    updated_at: 2026-09-26T10:10:50Z
+    pushed_at: 2026-09-26T04:24:21Z
+    git_url: git://github.com/laurent22/joplin.git
+    ssh_url: git@github.com:laurent22/joplin.git
+    clone_url: https://github.com/laurent22/joplin.git
+    svn_url: https://github.com/laurent22/joplin
+    homepage: https://joplinapp.org
+    size: 663441
+    stargazers_count: 56483
+    watchers_count: 56483
+    language: TypeScript
+    has_issues: true
+    has_projects: false
+    has_downloads: false
+    has_wiki: false
+    has_pages: false
+    has_discussions: false
+    forks_count: 6304
+    mirror_url: null
     archived: false
     disabled: false
-    private: false
-    visibility: public
-    stargazers_count: 55117
-    forks_count: 6100
-    pushed_at: 2026-06-03T21:57:08Z
-    language: TypeScript
-    topics:
-      - electron
-      - nodejs
-      - javascript
-      - android
-      - react-native
-      - dropbox
-      - synchronisation
-      - nextcloud
-      - onedrive
-      - webdav
-      - note-taking
-      - evernote
-      - obsidian
-      - standardnotes
-      - web-clipper
-      - enex-files
-      - joplin
-      - notesnook
+    open_issues_count: 635
     license:
-      spdx_id: null
-      key: null
+      key: other
+      name: Other
+      spdx_id: NOASSERTION
+      url: null
+      node_id: MDc6TGljZW5zZTA=
+    allow_forking: true
+    is_template: false
+    web_commit_signoff_required: false
+    has_pull_requests: true
+    pull_request_creation_policy: all
+    topics:
+      - android
+      - dropbox
+      - electron
+      - enex-files
+      - evernote
+      - javascript
+      - joplin
+      - nextcloud
+      - nodejs
+      - note-taking
+      - notesnook
+      - obsidian
+      - onedrive
+      - react-native
+      - standardnotes
+      - synchronisation
+      - web-clipper
+      - webdav
+    visibility: public
+    forks: 6304
+    open_issues: 635
+    watchers: 56483
+    default_branch: dev
+    permissions:
+      admin: false
+      maintain: false
+      push: false
+      triage: false
+      pull: false
+    temp_clone_token: ""
+    network_count: 6304
+    subscribers_count: 490
   activity:
-    monthlyCommits: []
-    totalCommitsKnown: 0
-    openPullRequests: 0
+    monthlyCommits:
+      - month: 2026-04
+        commits: 0
+      - month: 2026-05
+        commits: 0
+      - month: 2026-06
+        commits: 0
+      - month: 2026-07
+        commits: 0
+      - month: 2026-08
+        commits: 0
+      - month: 2026-09
+        commits: 100
+    totalCommitsKnown: 15869
+    openPullRequests: 11
+    contributorsKnown: 820
   sync:
-    syncedAt: 2026-06-07T15:24:32.092Z
+    syncedAt: 2026-09-26T12:00:42.041Z
     apiVersion: rest-v3
-    source: migrate-legacy
+    source: github-actions
+  languages:
+    TypeScript: 12175201
+    JavaScript: 2246733
+    Rust: 609385
+    HTML: 257647
+    CSS: 148640
+    Java: 129804
+    Mustache: 94794
+    SCSS: 66071
+    Objective-C: 47197
+    Shell: 32222
+    Handlebars: 31635
+    C++: 28244
+    Kotlin: 9525
+    Ruby: 7122
+    Swift: 5781
+    MDX: 1760
+    CMake: 1688
+    Starlark: 1318
+    C: 1078
+    Batchfile: 138
+  latestRelease:
+    url: https://api.github.com/repos/laurent22/joplin/releases/396839748
+    assets_url: https://api.github.com/repos/laurent22/joplin/releases/396839748/assets
+    upload_url: https://uploads.github.com/repos/laurent22/joplin/releases/396839748/assets{?name,label}
+    html_url: https://github.com/laurent22/joplin/releases/tag/v3.7.21
+    id: 396839748
+    author:
+      login: laurent22
+      id: 1285584
+      node_id: MDQ6VXNlcjEyODU1ODQ=
+      avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/laurent22
+      html_url: https://github.com/laurent22
+      followers_url: https://api.github.com/users/laurent22/followers
+      following_url: https://api.github.com/users/laurent22/following{/other_user}
+      gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+      starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+      organizations_url: https://api.github.com/users/laurent22/orgs
+      repos_url: https://api.github.com/users/laurent22/repos
+      events_url: https://api.github.com/users/laurent22/events{/privacy}
+      received_events_url: https://api.github.com/users/laurent22/received_events
+      type: User
+      user_view_type: public
+      site_admin: false
+    node_id: RE_kwDOBLftOs4Xp0tE
+    tag_name: v3.7.21
+    target_commitish: dev
+    name: v3.7.21
+    draft: false
+    immutable: false
+    prerelease: false
+    created_at: 2026-09-25T18:32:38Z
+    updated_at: 2026-09-25T21:31:12Z
+    published_at: 2026-09-25T21:31:12Z
+    assets:
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589281915
+        id: 589281915
+        node_id: RA_kwDOBLftOs4jH7p7
+        name: Joplin-3.7.21-arm64.DMG
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 208484343
+        digest: sha256:7e58db4346240de4cc7b7794d603be06b1a10b981bc5c22e0792080f28e856b7
+        download_count: 4568
+        created_at: 2026-09-25T21:28:03Z
+        updated_at: 2026-09-25T21:29:11Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.DMG
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589281914
+        id: 589281914
+        node_id: RA_kwDOBLftOs4jH7p6
+        name: Joplin-3.7.21-arm64.dmg.blockmap
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 217838
+        digest: sha256:459edef0ceef4c6c7d1a1fdf7ddfb67b6ae67f10d60ae470e919f4818b262828
+        download_count: 17
+        created_at: 2026-09-25T21:28:03Z
+        updated_at: 2026-09-25T21:28:03Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.dmg.blockmap
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589280656
+        id: 589280656
+        node_id: RA_kwDOBLftOs4jH7WQ
+        name: Joplin-3.7.21-arm64.pkg
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 208136863
+        digest: sha256:3a82dd8c0983a6c87a7f427aba00ee6b818a0286c4948d0b5e8eac1726b97f0c
+        download_count: 28
+        created_at: 2026-09-25T21:27:16Z
+        updated_at: 2026-09-25T21:27:23Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.pkg
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589282793
+        id: 589282793
+        node_id: RA_kwDOBLftOs4jH73p
+        name: Joplin-3.7.21-arm64.zip
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/zip
+        state: uploaded
+        size: 200073544
+        digest: sha256:b6d783bf399c33d97c9e217b897c79894611e52ce17a05deee9dbd5b1ba02c9a
+        download_count: 52
+        created_at: 2026-09-25T21:28:31Z
+        updated_at: 2026-09-25T21:28:37Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.zip
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589282791
+        id: 589282791
+        node_id: RA_kwDOBLftOs4jH73n
+        name: Joplin-3.7.21-arm64.zip.blockmap
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 210217
+        digest: sha256:a0abed3317d8bcabdc9af509aff193b3a872828befb914a85916c0bbadb02eef
+        download_count: 16
+        created_at: 2026-09-25T21:28:31Z
+        updated_at: 2026-09-25T21:28:31Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-arm64.zip.blockmap
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589177518
+        id: 589177518
+        node_id: RA_kwDOBLftOs4jHiKu
+        name: Joplin-3.7.21-mac.zip
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/zip
+        state: uploaded
+        size: 198453324
+        digest: sha256:107c6d167090a1e5a6bdbc23a524088f5788094e7e557d42cc4874e838f3bb10
+        download_count: 32
+        created_at: 2026-09-25T20:25:16Z
+        updated_at: 2026-09-25T20:25:23Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-mac.zip
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589177519
+        id: 589177519
+        node_id: RA_kwDOBLftOs4jHiKv
+        name: Joplin-3.7.21-mac.zip.blockmap
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 209015
+        digest: sha256:8188d1d38a41c5de05e06fc2612cf85d3db1cf28a80ee5545b8aae58242feb83
+        download_count: 18
+        created_at: 2026-09-25T20:25:16Z
+        updated_at: 2026-09-25T20:25:16Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21-mac.zip.blockmap
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589001329
+        id: 589001329
+        node_id: RA_kwDOBLftOs4jG3Jx
+        name: Joplin-3.7.21.AppImage
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 201462481
+        digest: sha256:5d202dcaca31e14206826aa3f04125e7c218dbc3dc3d98479d811efbd6b856c1
+        download_count: 790
+        created_at: 2026-09-25T18:44:42Z
+        updated_at: 2026-09-25T18:44:48Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.AppImage
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589005084
+        id: 589005084
+        node_id: RA_kwDOBLftOs4jG4Ec
+        name: Joplin-3.7.21.AppImage.sha512
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 128
+        digest: sha256:4b938464206e938eae01ae9e5260b22dac91ca03a5601748e6f6f90ca7abd490
+        download_count: 53
+        created_at: 2026-09-25T18:46:58Z
+        updated_at: 2026-09-25T18:46:58Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.AppImage.sha512
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589005081
+        id: 589005081
+        node_id: RA_kwDOBLftOs4jG4EZ
+        name: Joplin-3.7.21.deb
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 162700892
+        digest: sha256:14de2d5524e45341de5f0b68a1e78191b796a6c9817949c49b80afe5cd6ab965
+        download_count: 92
+        created_at: 2026-09-25T18:46:58Z
+        updated_at: 2026-09-25T18:47:02Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.deb
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589176635
+        id: 589176635
+        node_id: RA_kwDOBLftOs4jHh87
+        name: Joplin-3.7.21.dmg
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 206702267
+        digest: sha256:bd4c0a610a6c884ff987b73cd0794c0144f3dfdbeaba7ebc5db8107ad7e40378
+        download_count: 638
+        created_at: 2026-09-25T20:24:42Z
+        updated_at: 2026-09-25T20:24:50Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.dmg
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589176636
+        id: 589176636
+        node_id: RA_kwDOBLftOs4jHh88
+        name: Joplin-3.7.21.dmg.blockmap
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 219276
+        digest: sha256:9d6e9b6f89db7ef6da56ec1b147df0fca229293fc50d32a668cb5da85827890c
+        download_count: 14
+        created_at: 2026-09-25T20:24:42Z
+        updated_at: 2026-09-25T20:24:42Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.dmg.blockmap
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589174677
+        id: 589174677
+        node_id: RA_kwDOBLftOs4jHheV
+        name: Joplin-3.7.21.pkg
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 206477574
+        digest: sha256:bf2b6e07a3fe94b5b26b70b32c77601c78f6c02be31476db70890064b3af3e18
+        download_count: 26
+        created_at: 2026-09-25T20:23:36Z
+        updated_at: 2026-09-25T20:23:47Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-3.7.21.pkg
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589032636
+        id: 589032636
+        node_id: RA_kwDOBLftOs4jG-y8
+        name: Joplin-Setup-3.7.21.exe
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 361008040
+        digest: sha256:4222536c69360a30a566627b35c2e1cd8d38d0c79735ebde4e39edbcddd750cd
+        download_count: 9843
+        created_at: 2026-09-25T19:01:55Z
+        updated_at: 2026-09-25T19:02:41Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-Setup-3.7.21.exe
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589032635
+        id: 589032635
+        node_id: RA_kwDOBLftOs4jG-y7
+        name: Joplin-Setup-3.7.21.exe.blockmap
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 378206
+        digest: sha256:33dcf6bef9fd8d178eb386819f91cda6bd39856efe06764df5ca410ed16a723a
+        download_count: 1042
+        created_at: 2026-09-25T19:01:55Z
+        updated_at: 2026-09-25T19:01:55Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/Joplin-Setup-3.7.21.exe.blockmap
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589033540
+        id: 589033540
+        node_id: RA_kwDOBLftOs4jG_BE
+        name: JoplinPortable.exe
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 360779352
+        digest: sha256:5cf5686d8a3e2c1195448d1a0324602a2ef9a0cf61a867b323571ca2f8dd7b33
+        download_count: 433
+        created_at: 2026-09-25T19:02:26Z
+        updated_at: 2026-09-25T19:02:43Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/JoplinPortable.exe
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589005181
+        id: 589005181
+        node_id: RA_kwDOBLftOs4jG4F9
+        name: latest-linux.yml
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: text/yaml
+        state: uploaded
+        size: 515
+        digest: sha256:f33a9cfc27915759306780b1634e2ae1fd83632bacdfbfb0add14d45e9535549
+        download_count: 18
+        created_at: 2026-09-25T18:47:02Z
+        updated_at: 2026-09-25T18:47:03Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/latest-linux.yml
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589284279
+        id: 589284279
+        node_id: RA_kwDOBLftOs4jH8O3
+        name: latest-mac-arm64.yml
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 498
+        digest: sha256:6a2ce95bf3956baa5dc9273cec584bc500652fe286363006d4e174d4fa97b566
+        download_count: 474
+        created_at: 2026-09-25T21:29:23Z
+        updated_at: 2026-09-25T21:29:23Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/latest-mac-arm64.yml
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589283003
+        id: 589283003
+        node_id: RA_kwDOBLftOs4jH767
+        name: latest-mac.yml
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: text/yaml
+        state: uploaded
+        size: 498
+        digest: sha256:a6ca56b92768b7c337b219d2356e4f87da4ebc94f160e7d94a14f6b14914c6ca
+        download_count: 462
+        created_at: 2026-09-25T21:28:39Z
+        updated_at: 2026-09-25T21:28:39Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/latest-mac.yml
+      - url: https://api.github.com/repos/laurent22/joplin/releases/assets/589034057
+        id: 589034057
+        node_id: RA_kwDOBLftOs4jG_JJ
+        name: latest.yml
+        label: ""
+        uploader:
+          login: laurent22
+          id: 1285584
+          node_id: MDQ6VXNlcjEyODU1ODQ=
+          avatar_url: https://avatars.githubusercontent.com/u/1285584?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/laurent22
+          html_url: https://github.com/laurent22
+          followers_url: https://api.github.com/users/laurent22/followers
+          following_url: https://api.github.com/users/laurent22/following{/other_user}
+          gists_url: https://api.github.com/users/laurent22/gists{/gist_id}
+          starred_url: https://api.github.com/users/laurent22/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/laurent22/subscriptions
+          organizations_url: https://api.github.com/users/laurent22/orgs
+          repos_url: https://api.github.com/users/laurent22/repos
+          events_url: https://api.github.com/users/laurent22/events{/privacy}
+          received_events_url: https://api.github.com/users/laurent22/received_events
+          type: User
+          user_view_type: public
+          site_admin: false
+        content_type: text/yaml
+        state: uploaded
+        size: 344
+        digest: sha256:1e5356973adf9e6b3ca442bd95c24ac82c1b3d19dc24a9c35230cc875de0da6a
+        download_count: 1777
+        created_at: 2026-09-25T19:02:43Z
+        updated_at: 2026-09-25T19:02:43Z
+        browser_download_url: https://github.com/laurent22/joplin/releases/download/v3.7.21/latest.yml
+    tarball_url: https://api.github.com/repos/laurent22/joplin/tarball/v3.7.21
+    zipball_url: https://api.github.com/repos/laurent22/joplin/zipball/v3.7.21
+    body: "- New: Add setting to hide the AI Chat toolbar button (#16607)\r
+
+      - Improved: AI Chat: Persist conversation history and add a chat switcher (#16583) (#16498 by
+      [@Rygaa](https://github.com/Rygaa))\r
+
+      - Improved: Improve how semantic search interacts with item IDs (#16652) (#16644 by
+      [@personalizedrefrigerator](https://github.com/personalizedrefrigerator))\r
+
+      - Fixed: Fix AI configuration test failing on reasoning models (#16594)\r
+
+      - Fixed: Fix AppImage StartupWMClass (#16547) (#16434 by [@MiQ71](https://github.com/MiQ71))\r
+
+      - Fixed: Fix ENEX import failing on Evernote's unescaped ampersands (#16580)\r
+
+      - Fixed: Fix LMStudio compatibility (#16552) (#16539 by
+      [@personalizedrefrigerator](https://github.com/personalizedrefrigerator))\r
+
+      - Fixed: Fix dropping notes into the whiteboard editor (#16565) (#16457 by
+      [@personalizedrefrigerator](https://github.com/personalizedrefrigerator))\r
+
+      - Fixed: Fix notes and sub-folders are still marked as published after being moved out of a
+      published folder (#16648) (#16647 by
+      [@personalizedrefrigerator](https://github.com/personalizedrefrigerator))\r
+
+      - Fixed: Fix reasoning blocks leaking into AI chat replies (#16595)\r
+
+      - Fixed: Fix sync deadlock when Joplin Server rejects an item with HTTP 422 (#16544)
+      (#16504)\r
+
+      - Fixed: Fix table editor losing and mis-rendering inline markdown (#16632)\r
+
+      - Fixed: Fix x-callback-url responses never reaching the calling app (#16497)"
+    reactions:
+      url: https://api.github.com/repos/laurent22/joplin/releases/396839748/reactions
+      total_count: 10
+      "+1": 2
+      "-1": 0
+      laugh: 0
+      hooray: 2
+      confused: 0
+      heart: 5
+      rocket: 1
+      eyes: 0
+  files:
+    readme: true
+    contributing: false
+    codeOfConduct: false
+    security: true
+    issueTemplates: true
+    pullRequestTemplate: false
+  labels:
+    - name: good first issue
+      color: FBCA04
+      description: ""
 health:
   status: active
   tier: curated
