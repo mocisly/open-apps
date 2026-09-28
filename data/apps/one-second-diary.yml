@@ -24,36 +24,360 @@ stack:
       role: mobile-framework
 github:
   repository:
+    id: 339199429
+    node_id: MDEwOlJlcG9zaXRvcnkzMzkxOTk0Mjk=
+    name: one_second_diary
     full_name: KyleKun/one_second_diary
+    private: false
+    owner:
+      login: KyleKun
+      id: 36611739
+      node_id: MDQ6VXNlcjM2NjExNzM5
+      avatar_url: https://avatars.githubusercontent.com/u/36611739?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/KyleKun
+      html_url: https://github.com/KyleKun
+      followers_url: https://api.github.com/users/KyleKun/followers
+      following_url: https://api.github.com/users/KyleKun/following{/other_user}
+      gists_url: https://api.github.com/users/KyleKun/gists{/gist_id}
+      starred_url: https://api.github.com/users/KyleKun/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/KyleKun/subscriptions
+      organizations_url: https://api.github.com/users/KyleKun/orgs
+      repos_url: https://api.github.com/users/KyleKun/repos
+      events_url: https://api.github.com/users/KyleKun/events{/privacy}
+      received_events_url: https://api.github.com/users/KyleKun/received_events
+      type: User
+      user_view_type: public
+      site_admin: false
     html_url: https://github.com/KyleKun/one_second_diary
-    description: Minimalist Video Diary app
+    description: Minimalist video diary app.
     fork: false
+    url: https://api.github.com/repos/KyleKun/one_second_diary
+    forks_url: https://api.github.com/repos/KyleKun/one_second_diary/forks
+    keys_url: https://api.github.com/repos/KyleKun/one_second_diary/keys{/key_id}
+    collaborators_url: https://api.github.com/repos/KyleKun/one_second_diary/collaborators{/collaborator}
+    teams_url: https://api.github.com/repos/KyleKun/one_second_diary/teams
+    hooks_url: https://api.github.com/repos/KyleKun/one_second_diary/hooks
+    issue_events_url: https://api.github.com/repos/KyleKun/one_second_diary/issues/events{/number}
+    events_url: https://api.github.com/repos/KyleKun/one_second_diary/events
+    assignees_url: https://api.github.com/repos/KyleKun/one_second_diary/assignees{/user}
+    branches_url: https://api.github.com/repos/KyleKun/one_second_diary/branches{/branch}
+    tags_url: https://api.github.com/repos/KyleKun/one_second_diary/tags
+    blobs_url: https://api.github.com/repos/KyleKun/one_second_diary/git/blobs{/sha}
+    git_tags_url: https://api.github.com/repos/KyleKun/one_second_diary/git/tags{/sha}
+    git_refs_url: https://api.github.com/repos/KyleKun/one_second_diary/git/refs{/sha}
+    trees_url: https://api.github.com/repos/KyleKun/one_second_diary/git/trees{/sha}
+    statuses_url: https://api.github.com/repos/KyleKun/one_second_diary/statuses/{sha}
+    languages_url: https://api.github.com/repos/KyleKun/one_second_diary/languages
+    stargazers_url: https://api.github.com/repos/KyleKun/one_second_diary/stargazers
+    contributors_url: https://api.github.com/repos/KyleKun/one_second_diary/contributors
+    subscribers_url: https://api.github.com/repos/KyleKun/one_second_diary/subscribers
+    subscription_url: https://api.github.com/repos/KyleKun/one_second_diary/subscription
+    commits_url: https://api.github.com/repos/KyleKun/one_second_diary/commits{/sha}
+    git_commits_url: https://api.github.com/repos/KyleKun/one_second_diary/git/commits{/sha}
+    comments_url: https://api.github.com/repos/KyleKun/one_second_diary/comments{/number}
+    issue_comment_url: https://api.github.com/repos/KyleKun/one_second_diary/issues/comments{/number}
+    contents_url: https://api.github.com/repos/KyleKun/one_second_diary/contents/{+path}
+    compare_url: https://api.github.com/repos/KyleKun/one_second_diary/compare/{base}...{head}
+    merges_url: https://api.github.com/repos/KyleKun/one_second_diary/merges
+    archive_url: https://api.github.com/repos/KyleKun/one_second_diary/{archive_format}{/ref}
+    downloads_url: https://api.github.com/repos/KyleKun/one_second_diary/downloads
+    issues_url: https://api.github.com/repos/KyleKun/one_second_diary/issues{/number}
+    pulls_url: https://api.github.com/repos/KyleKun/one_second_diary/pulls{/number}
+    milestones_url: https://api.github.com/repos/KyleKun/one_second_diary/milestones{/number}
+    notifications_url: https://api.github.com/repos/KyleKun/one_second_diary/notifications{?since,all,participating}
+    labels_url: https://api.github.com/repos/KyleKun/one_second_diary/labels{/name}
+    releases_url: https://api.github.com/repos/KyleKun/one_second_diary/releases{/id}
+    deployments_url: https://api.github.com/repos/KyleKun/one_second_diary/deployments
+    created_at: 2021-02-15T20:33:36Z
+    updated_at: 2026-09-26T22:28:45Z
+    pushed_at: 2026-09-26T22:29:12Z
+    git_url: git://github.com/KyleKun/one_second_diary.git
+    ssh_url: git@github.com:KyleKun/one_second_diary.git
+    clone_url: https://github.com/KyleKun/one_second_diary.git
+    svn_url: https://github.com/KyleKun/one_second_diary
+    homepage: ""
+    size: 17930
+    stargazers_count: 409
+    watchers_count: 409
+    language: Dart
+    has_issues: true
+    has_projects: true
+    has_downloads: false
+    has_wiki: true
+    has_pages: false
+    has_discussions: true
+    forks_count: 80
+    mirror_url: null
     archived: false
     disabled: false
-    private: false
-    visibility: public
-    stargazers_count: 388
-    forks_count: 74
-    pushed_at: 2023-12-24T16:15:00Z
+    open_issues_count: 29
     license:
+      key: mit
+      name: MIT License
       spdx_id: MIT
-      key: null
-      name: null
-      url: null
-    language: Dart
+      url: https://api.github.com/licenses/mit
+      node_id: MDc6TGljZW5zZTEz
+    allow_forking: true
+    is_template: false
+    web_commit_signoff_required: false
+    has_pull_requests: true
+    pull_request_creation_policy: all
     topics:
       - android
       - diary
       - flutter
       - flutter-app
+    visibility: public
+    forks: 80
+    open_issues: 29
+    watchers: 409
+    default_branch: main
+    permissions:
+      admin: false
+      maintain: false
+      push: false
+      triage: false
+      pull: false
+    temp_clone_token: ""
+    network_count: 80
+    subscribers_count: 13
   activity:
-    monthlyCommits: []
-    totalCommitsKnown: 100
+    monthlyCommits:
+      - month: 2026-04
+        commits: 0
+      - month: 2026-05
+        commits: 0
+      - month: 2026-06
+        commits: 1
+      - month: 2026-07
+        commits: 1
+      - month: 2026-08
+        commits: 8
+      - month: 2026-09
+        commits: 15
+    totalCommitsKnown: 313
     openPullRequests: 0
+    contributorsKnown: 12
   sync:
-    syncedAt: 2026-06-07T15:24:38.769Z
+    syncedAt: 2026-09-28T14:51:56.239Z
     apiVersion: rest-v3
-    source: migrate-legacy
+    source: github-actions
+  languages:
+    Dart: 692035
+    Ruby: 1287
+    Swift: 539
+    Kotlin: 189
+    Objective-C: 38
+  latestRelease:
+    url: https://api.github.com/repos/KyleKun/one_second_diary/releases/397420240
+    assets_url: https://api.github.com/repos/KyleKun/one_second_diary/releases/397420240/assets
+    upload_url: https://uploads.github.com/repos/KyleKun/one_second_diary/releases/397420240/assets{?name,label}
+    html_url: https://github.com/KyleKun/one_second_diary/releases/tag/v1.7.1
+    id: 397420240
+    author:
+      login: github-actions[bot]
+      id: 41898282
+      node_id: MDM6Qm90NDE4OTgyODI=
+      avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/github-actions%5Bbot%5D
+      html_url: https://github.com/apps/github-actions
+      followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+      following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+      gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+      starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+      organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+      repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+      events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+      received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+      type: Bot
+      user_view_type: public
+      site_admin: false
+    node_id: RE_kwDOFDfFxc4XsCbQ
+    tag_name: v1.7.1
+    target_commitish: main
+    name: One Second Diary - v1.7.1
+    draft: false
+    immutable: false
+    prerelease: false
+    created_at: 2026-09-26T22:28:40Z
+    updated_at: 2026-09-26T22:42:04Z
+    published_at: 2026-09-26T22:42:04Z
+    assets:
+      - url: https://api.github.com/repos/KyleKun/one_second_diary/releases/assets/591601876
+        id: 591601876
+        node_id: RA_kwDOFDfFxc4jQyDU
+        name: one-second-diary-v1.7.1-arm64-v8a-release.apk
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 80035712
+        digest: sha256:1852bef6443dd4aafbea34859c6e9ede3c733df32d10e7f827193a8f7b8d2e6d
+        download_count: 13
+        created_at: 2026-09-26T22:41:57Z
+        updated_at: 2026-09-26T22:41:59Z
+        browser_download_url: https://github.com/KyleKun/one_second_diary/releases/download/v1.7.1/one-second-diary-v1.7.1-arm64-v8a-release.apk
+      - url: https://api.github.com/repos/KyleKun/one_second_diary/releases/assets/591601877
+        id: 591601877
+        node_id: RA_kwDOFDfFxc4jQyDV
+        name: one-second-diary-v1.7.1-armeabi-v7a-release.apk
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 114991028
+        digest: sha256:f406cdb49d3d388dac8b7495f5afc62cf0eb1b06bc53ea6825fba96f014a8271
+        download_count: 0
+        created_at: 2026-09-26T22:41:57Z
+        updated_at: 2026-09-26T22:42:00Z
+        browser_download_url: https://github.com/KyleKun/one_second_diary/releases/download/v1.7.1/one-second-diary-v1.7.1-armeabi-v7a-release.apk
+      - url: https://api.github.com/repos/KyleKun/one_second_diary/releases/assets/591601873
+        id: 591601873
+        node_id: RA_kwDOFDfFxc4jQyDR
+        name: one-second-diary-v1.7.1-universal-release.apk
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 269732719
+        digest: sha256:ed758802f792fb76641a6f361e67119674ef58801fdeca8347b6a9e9e830e27b
+        download_count: 0
+        created_at: 2026-09-26T22:41:57Z
+        updated_at: 2026-09-26T22:42:04Z
+        browser_download_url: https://github.com/KyleKun/one_second_diary/releases/download/v1.7.1/one-second-diary-v1.7.1-universal-release.apk
+      - url: https://api.github.com/repos/KyleKun/one_second_diary/releases/assets/591601874
+        id: 591601874
+        node_id: RA_kwDOFDfFxc4jQyDS
+        name: one-second-diary-v1.7.1-x86_64-release.apk
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 88686221
+        digest: sha256:931559dd5f3eccfe1a868b43c2cbda393758bb1ce56a3bdeb8d5e345cd0bbea2
+        download_count: 0
+        created_at: 2026-09-26T22:41:57Z
+        updated_at: 2026-09-26T22:41:59Z
+        browser_download_url: https://github.com/KyleKun/one_second_diary/releases/download/v1.7.1/one-second-diary-v1.7.1-x86_64-release.apk
+    tarball_url: https://api.github.com/repos/KyleKun/one_second_diary/tarball/v1.7.1
+    zipball_url: https://api.github.com/repos/KyleKun/one_second_diary/zipball/v1.7.1
+    body: >-
+      ## Changes
+
+      - Fixed "Permission denied" error when saving videos or creating movies on some devices after
+      updating to v1.7.0
+
+      - Fixed vertical video thumbnails overlapping each other when selecting videos for a movie
+
+      - Fixed duration buttons overflowing the screen when saving a photo as a video
+
+      - Save photo page now matches the save video page design
+
+      - Save photo page now remembers the last selected duration
+
+
+      Note: If you installed the app via PlayStore, please update it there. Don't install these APKs
+      over the Play Store version. Otherwise, if your phone was made in 2017 or later, you most
+      likely want `one-second-diary-v1.7.1-arm64-v8a-release.apk`. If it doesn't install, use
+      `one-second-diary-v1.7.1-universal-release.apk`, which works on all devices but is larger.
+
+
+
+
+      **Full Changelog**: https://github.com/KyleKun/one_second_diary/compare/v1.7.0...v1.7.1
+  files:
+    readme: true
+    contributing: false
+    codeOfConduct: false
+    security: false
+    issueTemplates: false
+    pullRequestTemplate: true
+  labels:
+    - name: good first issue
+      color: 7057ff
+      description: Good for newcomers
+    - name: help wanted
+      color: "008672"
+      description: Extra attention is needed
 health:
   status: stale
   tier: listed
