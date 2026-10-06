@@ -25,41 +25,331 @@ stack:
       role: mobile-framework
 github:
   repository:
+    id: 29702213
+    node_id: MDEwOlJlcG9zaXRvcnkyOTcwMjIxMw==
+    name: eigen
     full_name: artsy/eigen
+    private: false
+    owner:
+      login: artsy
+      id: 546231
+      node_id: MDEyOk9yZ2FuaXphdGlvbjU0NjIzMQ==
+      avatar_url: https://avatars.githubusercontent.com/u/546231?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/artsy
+      html_url: https://github.com/artsy
+      followers_url: https://api.github.com/users/artsy/followers
+      following_url: https://api.github.com/users/artsy/following{/other_user}
+      gists_url: https://api.github.com/users/artsy/gists{/gist_id}
+      starred_url: https://api.github.com/users/artsy/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/artsy/subscriptions
+      organizations_url: https://api.github.com/users/artsy/orgs
+      repos_url: https://api.github.com/users/artsy/repos
+      events_url: https://api.github.com/users/artsy/events{/privacy}
+      received_events_url: https://api.github.com/users/artsy/received_events
+      type: Organization
+      user_view_type: public
+      site_admin: false
     html_url: https://github.com/artsy/eigen
-    description: The mobile app for artsy.net — discover fine art, browse artists and artworks, follow
-      galleries, and bid in auctions from your phone.
+    description: The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
     fork: false
+    url: https://api.github.com/repos/artsy/eigen
+    forks_url: https://api.github.com/repos/artsy/eigen/forks
+    keys_url: https://api.github.com/repos/artsy/eigen/keys{/key_id}
+    collaborators_url: https://api.github.com/repos/artsy/eigen/collaborators{/collaborator}
+    teams_url: https://api.github.com/repos/artsy/eigen/teams
+    hooks_url: https://api.github.com/repos/artsy/eigen/hooks
+    issue_events_url: https://api.github.com/repos/artsy/eigen/issues/events{/number}
+    events_url: https://api.github.com/repos/artsy/eigen/events
+    assignees_url: https://api.github.com/repos/artsy/eigen/assignees{/user}
+    branches_url: https://api.github.com/repos/artsy/eigen/branches{/branch}
+    tags_url: https://api.github.com/repos/artsy/eigen/tags
+    blobs_url: https://api.github.com/repos/artsy/eigen/git/blobs{/sha}
+    git_tags_url: https://api.github.com/repos/artsy/eigen/git/tags{/sha}
+    git_refs_url: https://api.github.com/repos/artsy/eigen/git/refs{/sha}
+    trees_url: https://api.github.com/repos/artsy/eigen/git/trees{/sha}
+    statuses_url: https://api.github.com/repos/artsy/eigen/statuses/{sha}
+    languages_url: https://api.github.com/repos/artsy/eigen/languages
+    stargazers_url: https://api.github.com/repos/artsy/eigen/stargazers
+    contributors_url: https://api.github.com/repos/artsy/eigen/contributors
+    subscribers_url: https://api.github.com/repos/artsy/eigen/subscribers
+    subscription_url: https://api.github.com/repos/artsy/eigen/subscription
+    commits_url: https://api.github.com/repos/artsy/eigen/commits{/sha}
+    git_commits_url: https://api.github.com/repos/artsy/eigen/git/commits{/sha}
+    comments_url: https://api.github.com/repos/artsy/eigen/comments{/number}
+    issue_comment_url: https://api.github.com/repos/artsy/eigen/issues/comments{/number}
+    contents_url: https://api.github.com/repos/artsy/eigen/contents/{+path}
+    compare_url: https://api.github.com/repos/artsy/eigen/compare/{base}...{head}
+    merges_url: https://api.github.com/repos/artsy/eigen/merges
+    archive_url: https://api.github.com/repos/artsy/eigen/{archive_format}{/ref}
+    downloads_url: https://api.github.com/repos/artsy/eigen/downloads
+    issues_url: https://api.github.com/repos/artsy/eigen/issues{/number}
+    pulls_url: https://api.github.com/repos/artsy/eigen/pulls{/number}
+    milestones_url: https://api.github.com/repos/artsy/eigen/milestones{/number}
+    notifications_url: https://api.github.com/repos/artsy/eigen/notifications{?since,all,participating}
+    labels_url: https://api.github.com/repos/artsy/eigen/labels{/name}
+    releases_url: https://api.github.com/repos/artsy/eigen/releases{/id}
+    deployments_url: https://api.github.com/repos/artsy/eigen/deployments
+    created_at: 2015-01-22T21:52:39Z
+    updated_at: 2026-10-06T13:37:48Z
+    pushed_at: 2026-10-06T13:37:44Z
+    git_url: git://github.com/artsy/eigen.git
+    ssh_url: git@github.com:artsy/eigen.git
+    clone_url: https://github.com/artsy/eigen.git
+    svn_url: https://github.com/artsy/eigen
+    homepage: ""
+    size: 654257
+    stargazers_count: 3774
+    watchers_count: 3774
+    language: TypeScript
+    has_issues: true
+    has_projects: true
+    has_downloads: false
+    has_wiki: false
+    has_pages: false
+    has_discussions: false
+    forks_count: 593
+    mirror_url: null
     archived: false
     disabled: false
-    private: false
-    visibility: public
-    stargazers_count: 3772
-    forks_count: 1000
-    pushed_at: 2026-06-05T08:29:52Z
+    open_issues_count: 28
     license:
+      key: mit
+      name: MIT License
       spdx_id: MIT
-      key: null
-      name: null
-      url: null
-    language: TypeScript
+      url: https://api.github.com/licenses/mit
+      node_id: MDc6TGljZW5zZTEz
+    allow_forking: true
+    is_template: false
+    web_commit_signoff_required: false
+    has_pull_requests: true
+    pull_request_creation_policy: all
     topics:
-      - art
       - android
-      - swift
-      - ios
       - app
-      - react-native
-      - objective-c
       - app-store
+      - art
+      - ios
+      - objective-c
+      - react-native
+      - swift
+    visibility: public
+    forks: 593
+    open_issues: 28
+    watchers: 3774
+    default_branch: main
+    permissions:
+      admin: false
+      maintain: false
+      push: false
+      triage: false
+      pull: false
+    temp_clone_token: ""
+    custom_properties: {}
+    organization:
+      login: artsy
+      id: 546231
+      node_id: MDEyOk9yZ2FuaXphdGlvbjU0NjIzMQ==
+      avatar_url: https://avatars.githubusercontent.com/u/546231?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/artsy
+      html_url: https://github.com/artsy
+      followers_url: https://api.github.com/users/artsy/followers
+      following_url: https://api.github.com/users/artsy/following{/other_user}
+      gists_url: https://api.github.com/users/artsy/gists{/gist_id}
+      starred_url: https://api.github.com/users/artsy/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/artsy/subscriptions
+      organizations_url: https://api.github.com/users/artsy/orgs
+      repos_url: https://api.github.com/users/artsy/repos
+      events_url: https://api.github.com/users/artsy/events{/privacy}
+      received_events_url: https://api.github.com/users/artsy/received_events
+      type: Organization
+      user_view_type: public
+      site_admin: false
+    network_count: 593
+    subscribers_count: 115
   activity:
-    monthlyCommits: []
-    totalCommitsKnown: 0
-    openPullRequests: 0
+    monthlyCommits:
+      - month: 2026-05
+        commits: 0
+      - month: 2026-06
+        commits: 0
+      - month: 2026-07
+        commits: 0
+      - month: 2026-08
+        commits: 0
+      - month: 2026-09
+        commits: 76
+      - month: 2026-10
+        commits: 24
+    totalCommitsKnown: 28477
+    openPullRequests: 25
+    contributorsKnown: 166
   sync:
-    syncedAt: 2026-06-07T15:24:17.804Z
+    syncedAt: 2026-10-06T13:51:09.221Z
     apiVersion: rest-v3
-    source: migrate-legacy
+    source: github-actions
+  languages:
+    TypeScript: 9119210
+    Objective-C: 697328
+    Swift: 479857
+    Ruby: 73078
+    Shell: 70105
+    JavaScript: 44684
+    Kotlin: 32620
+    Objective-C++: 26829
+    Wolfram Language: 7442
+    MATLAB: 4544
+    C: 4501
+    Java: 3874
+    Vim Script: 428
+  latestRelease:
+    url: https://api.github.com/repos/artsy/eigen/releases/400312126
+    assets_url: https://api.github.com/repos/artsy/eigen/releases/400312126/assets
+    upload_url: https://uploads.github.com/repos/artsy/eigen/releases/400312126/assets{?name,label}
+    html_url: https://github.com/artsy/eigen/releases/tag/ios-9.19.0-2026.09.30.15-submission
+    id: 400312126
+    author:
+      login: github-actions[bot]
+      id: 41898282
+      node_id: MDM6Qm90NDE4OTgyODI=
+      avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/github-actions%5Bbot%5D
+      html_url: https://github.com/apps/github-actions
+      followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+      following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+      gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+      starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+      organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+      repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+      events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+      received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+      type: Bot
+      user_view_type: public
+      site_admin: false
+    node_id: RE_kwDOAcU4Rc4X3Ec-
+    tag_name: ios-9.19.0-2026.09.30.15-submission
+    target_commitish: main
+    name: v9.19.0
+    draft: false
+    immutable: false
+    prerelease: false
+    created_at: 2026-09-30T18:08:56Z
+    updated_at: 2026-09-30T18:09:35Z
+    published_at: 2026-09-30T18:09:35Z
+    assets: []
+    tarball_url: https://api.github.com/repos/artsy/eigen/tarball/ios-9.19.0-2026.09.30.15-submission
+    zipball_url: https://api.github.com/repos/artsy/eigen/zipball/ios-9.19.0-2026.09.30.15-submission
+    body: |-
+      Check the health of this release in Sentry:
+
+      :apple: [iOS Release details](https://artsynet.sentry.io/explore/releases/ios-9.19.0-2026.09.30.15/?environment=production&project=5867225) | :robot: [Android Release details](https://artsynet.sentry.io/explore/releases/android-9.19.0-2026093015/?environment=production&project=5867225)
+
+      :apple: [Mobile Vitals iOS](https://artsynet.sentry.io/dashboard/622403/?environment=production&project=5867225&statsPeriod=30d&release=ios-9.19.0-2026.09.30.15) | :robot: [Mobile Vitals Android](https://artsynet.sentry.io/dashboard/622403/?environment=production&project=5867225&statsPeriod=30d&release=android-9.19.0-2026093015)
+      ## What's Changed
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14089
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14091
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14092
+      * feat: enable art assistants feature flag by @nickskalkin in https://github.com/artsy/eigen/pull/14093
+      * chore(deps): update dep @artsy/cohesion from 4.400.0 to v4.401.0 by @renovate[bot] in https://github.com/artsy/eigen/pull/14095
+      * feat(PHIRE-3407): Move Expo Updates deployment to Github Actions by @MrSltun in https://github.com/artsy/eigen/pull/14076
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14096
+      * chore: Add description line to Expo Update slack message by @MrSltun in https://github.com/artsy/eigen/pull/14097
+      * chore(deps): update dep @artsy/cohesion from 4.401.0 to v4.402.0 by @renovate[bot] in https://github.com/artsy/eigen/pull/14098
+      * chore(deps): update dep @artsy/icons from 3.80.0 to v3.81.0 by @renovate[bot] in https://github.com/artsy/eigen/pull/14099
+      * feat(city-guide): curated city itineraries with list and map views by @MounirDhahri in https://github.com/artsy/eigen/pull/13992
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14103
+      * feat(art-assistant): add tracking events by @nickskalkin in https://github.com/artsy/eigen/pull/14094
+      * chore(deps): update dep @artsy/cohesion from 4.402.0 to v4.403.0 by @renovate[bot] in https://github.com/artsy/eigen/pull/14112
+      * feat(city-guide): add map overlay filter pills to the general city map by @MounirDhahri in https://github.com/artsy/eigen/pull/14106
+      * feat(city-guide): swipe-left to delete a stop from an itinerary by @MounirDhahri in https://github.com/artsy/eigen/pull/14108
+      * fix(city-guide): add loading skeleton for CityGuideNew home screen by @MounirDhahri in https://github.com/artsy/eigen/pull/14104
+      * feat(city-guide): hold-and-drag to reorder itinerary stops by @MounirDhahri in https://github.com/artsy/eigen/pull/14111
+      * feat(city-guide): add tap tracking for event/itinerary cards and map preview by @MounirDhahri in https://github.com/artsy/eigen/pull/14109
+      * fix(city-guide): fill the save checkmark and centre the stop card row by @MounirDhahri in https://github.com/artsy/eigen/pull/14105
+      * fix(city-guide): move the drag shift onto the whole row, not just its content by @MounirDhahri in https://github.com/artsy/eigen/pull/14113
+      * feat(city-guide): wire up new cohesion 4.404.0 itinerary analytics events by @MounirDhahri in https://github.com/artsy/eigen/pull/14114
+      * fix(city-guide): move itinerary edit to its own page; placeholder for missing cover image by @MounirDhahri in https://github.com/artsy/eigen/pull/14101
+      * feat(city-guide): feature one curated guide in the City Guides section by @MounirDhahri in https://github.com/artsy/eigen/pull/14116
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14117
+      * fix(city-guide): stop Share button's hitSlop from stealing Edit taps by @MounirDhahri in https://github.com/artsy/eigen/pull/14127
+      * fix(city-guide): center the number in the itinerary stop's numbered circle by @MounirDhahri in https://github.com/artsy/eigen/pull/14124
+      * fix(city-guide): make city picker background theme-aware by @MounirDhahri in https://github.com/artsy/eigen/pull/14123
+      * fix(city-guide): hide empty filter pills instead of disabling them by @MounirDhahri in https://github.com/artsy/eigen/pull/14129
+      * fix(city-guide): remove the "Add Full List" button by @MounirDhahri in https://github.com/artsy/eigen/pull/14130
+      * fix(art-assistant): design feedback pass on the chat screen by @nickskalkin in https://github.com/artsy/eigen/pull/14102
+      * fix(city-guide): add safe-area top padding to itinerary map bounds by @MounirDhahri in https://github.com/artsy/eigen/pull/14126
+      * chore(deps): update dep @artsy/cohesion from 4.404.0 to v4.405.0 by @renovate[bot] in https://github.com/artsy/eigen/pull/14115
+      * fix: darkmode issues on city guide by @MounirDhahri in https://github.com/artsy/eigen/pull/14132
+      * feat(city-guide): support preselecting a city via citySlug query param by @MounirDhahri in https://github.com/artsy/eigen/pull/14138
+      * chore(deps): update dep @artsy/cohesion from 4.405.0 to v4.407.0 by @renovate[bot] in https://github.com/artsy/eigen/pull/14139
+      * fix(city-guide): remove itinerary map route lines by @MounirDhahri in https://github.com/artsy/eigen/pull/14135
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14141
+      * feat(city-guide): highlight the featured City Guide pill with a rotating glow by @MounirDhahri in https://github.com/artsy/eigen/pull/14142
+      * feat(city-guide): reorder itinerary stops with react-native-drax by @MounirDhahri in https://github.com/artsy/eigen/pull/14133
+      * fix(city-guide): stop mangling shareToken in itinerary deep links by @MounirDhahri in https://github.com/artsy/eigen/pull/14136
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14143
+      * fix(city-guide): keep the keyboard from covering the itinerary edit sheet's fields by @MounirDhahri in https://github.com/artsy/eigen/pull/14119
+      * fix(city-guide): hide scale bar by @MounirDhahri in https://github.com/artsy/eigen/pull/14118
+      * fix(art-assistant): handle failures and incomplete responses safely by @nickskalkin in https://github.com/artsy/eigen/pull/14140
+      * feat: rewire city guide videos/articles off CityGuideEvent by @MounirDhahri in https://github.com/artsy/eigen/pull/14145
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14144
+      * feat(city-guide): show a custom stop's category label by @MounirDhahri in https://github.com/artsy/eigen/pull/14147
+      * fix(city-guide): keep the City Guides block black in dark mode by @MounirDhahri in https://github.com/artsy/eigen/pull/14149
+      * fix(city-guide): fix custom stop layout gap, category eyebrow, and website copy by @MounirDhahri in https://github.com/artsy/eigen/pull/14151
+      * fix(city-guide): hide personal-itinerary edit controls on curated guides by @MounirDhahri in https://github.com/artsy/eigen/pull/14152
+      * fix(city-guide): hide share on curated itineraries and give the edit icon a dark background by @MounirDhahri in https://github.com/artsy/eigen/pull/14150
+      * fix(city-guide): cap Artsy Editorial section at 4 articles, add full list screen by @MounirDhahri in https://github.com/artsy/eigen/pull/14153
+      * fix(city-guide): show one video card at a time, in a rail when there are more by @MounirDhahri in https://github.com/artsy/eigen/pull/14154
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14155
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14160
+      * fix(city-guide): hide the header of a section with an empty title by @MounirDhahri in https://github.com/artsy/eigen/pull/14159
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14161
+      * feat(city-guide): feature a city's only curated guide by @MounirDhahri in https://github.com/artsy/eigen/pull/14163
+      * fix(city-guide): hide draft curated guides from the City Guide page by @MounirDhahri in https://github.com/artsy/eigen/pull/14165
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14175
+      * fix(artist): hide un-informative career highlights by @anandaroop in https://github.com/artsy/eigen/pull/14146
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14176
+      * fix(city-guide): offer Create New Itinerary outside City Guide by @MounirDhahri in https://github.com/artsy/eigen/pull/14174
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14177
+      * feat(city-guide): rank current shows by the signed-in viewer's taste by @MounirDhahri in https://github.com/artsy/eigen/pull/14167
+      * fix: order map options Google, Apple, Copy Address and drop Citymapper by @MounirDhahri in https://github.com/artsy/eigen/pull/14172
+      * feat(city-guide): show video titles in the videos rail by @MounirDhahri in https://github.com/artsy/eigen/pull/14164
+      * feat(city-guide): type eyebrows above show titles and event stops by @MounirDhahri in https://github.com/artsy/eigen/pull/14173
+      * fix(city-guide): add space between the last stop and the map button by @MounirDhahri in https://github.com/artsy/eigen/pull/14169
+      * fix(city-guide): drop the zero minute from stop times by @MounirDhahri in https://github.com/artsy/eigen/pull/14157
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14180
+      * fix(city-guide): gate the fair itinerary plus on having an address by @MounirDhahri in https://github.com/artsy/eigen/pull/14179
+      * feat(city-guide): fill the Artsy Editorial section with recommended articles by @MounirDhahri in https://github.com/artsy/eigen/pull/14168
+      * fix(city-guide): keep neighbourhood sections when shows are ranked for you by @MounirDhahri in https://github.com/artsy/eigen/pull/14181
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14184
+      * refactor(city-guide): group events by Metaphysics neighborhoods by @MounirDhahri in https://github.com/artsy/eigen/pull/14183
+      * feat(city-guide): drop stop numbers from the itinerary list and map by @MounirDhahri in https://github.com/artsy/eigen/pull/14185
+      * chore: add extra spacing by @MounirDhahri in https://github.com/artsy/eigen/pull/14186
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14187
+      * chore: prepare for next release by @artsyit in https://github.com/artsy/eigen/pull/14188
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14191
+      * refactor(city-guide): read the city list from Metaphysics by @MounirDhahri in https://github.com/artsy/eigen/pull/14190
+      * chore: minor design adjustments by @MounirDhahri in https://github.com/artsy/eigen/pull/14192
+      * fix(city-guide): custom stop map taps and a partner category eyebrow by @MounirDhahri in https://github.com/artsy/eigen/pull/14196
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14197
+      * chore: mark city as ready by @MounirDhahri in https://github.com/artsy/eigen/pull/14198
+      * feat(city-guide): add galleries to itineraries from their page, and keep saved state in sync by @MounirDhahri in https://github.com/artsy/eigen/pull/14199
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14200
+
+
+      **Full Changelog**: https://github.com/artsy/eigen/compare/ios-9.18.0-2026.09.23.13-submission...ios-9.19.0-2026.09.30.15-submission
+    mentions_count: 6
+  files:
+    readme: true
+    contributing: false
+    codeOfConduct: false
+    security: false
+    issueTemplates: true
+    pullRequestTemplate: false
+  labels: []
 health:
   status: active
   tier: curated
