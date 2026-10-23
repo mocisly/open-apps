@@ -24,48 +24,615 @@ stack:
       role: mobile-framework
 github:
   repository:
+    id: 455229168
+    node_id: R_kgDOGyI-8A
+    name: immich
     full_name: immich-app/immich
+    private: false
+    owner:
+      login: immich-app
+      id: 109746326
+      node_id: O_kgDOBoqYlg
+      avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/immich-app
+      html_url: https://github.com/immich-app
+      followers_url: https://api.github.com/users/immich-app/followers
+      following_url: https://api.github.com/users/immich-app/following{/other_user}
+      gists_url: https://api.github.com/users/immich-app/gists{/gist_id}
+      starred_url: https://api.github.com/users/immich-app/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/immich-app/subscriptions
+      organizations_url: https://api.github.com/users/immich-app/orgs
+      repos_url: https://api.github.com/users/immich-app/repos
+      events_url: https://api.github.com/users/immich-app/events{/privacy}
+      received_events_url: https://api.github.com/users/immich-app/received_events
+      type: Organization
+      user_view_type: public
+      site_admin: false
     html_url: https://github.com/immich-app/immich
-    description: Self-hosted photo and video backup solution directly from your mobile phone
+    description: High performance self-hosted photo and video management solution.
     fork: false
+    url: https://api.github.com/repos/immich-app/immich
+    forks_url: https://api.github.com/repos/immich-app/immich/forks
+    keys_url: https://api.github.com/repos/immich-app/immich/keys{/key_id}
+    collaborators_url: https://api.github.com/repos/immich-app/immich/collaborators{/collaborator}
+    teams_url: https://api.github.com/repos/immich-app/immich/teams
+    hooks_url: https://api.github.com/repos/immich-app/immich/hooks
+    issue_events_url: https://api.github.com/repos/immich-app/immich/issues/events{/number}
+    events_url: https://api.github.com/repos/immich-app/immich/events
+    assignees_url: https://api.github.com/repos/immich-app/immich/assignees{/user}
+    branches_url: https://api.github.com/repos/immich-app/immich/branches{/branch}
+    tags_url: https://api.github.com/repos/immich-app/immich/tags
+    blobs_url: https://api.github.com/repos/immich-app/immich/git/blobs{/sha}
+    git_tags_url: https://api.github.com/repos/immich-app/immich/git/tags{/sha}
+    git_refs_url: https://api.github.com/repos/immich-app/immich/git/refs{/sha}
+    trees_url: https://api.github.com/repos/immich-app/immich/git/trees{/sha}
+    statuses_url: https://api.github.com/repos/immich-app/immich/statuses/{sha}
+    languages_url: https://api.github.com/repos/immich-app/immich/languages
+    stargazers_url: https://api.github.com/repos/immich-app/immich/stargazers
+    contributors_url: https://api.github.com/repos/immich-app/immich/contributors
+    subscribers_url: https://api.github.com/repos/immich-app/immich/subscribers
+    subscription_url: https://api.github.com/repos/immich-app/immich/subscription
+    commits_url: https://api.github.com/repos/immich-app/immich/commits{/sha}
+    git_commits_url: https://api.github.com/repos/immich-app/immich/git/commits{/sha}
+    comments_url: https://api.github.com/repos/immich-app/immich/comments{/number}
+    issue_comment_url: https://api.github.com/repos/immich-app/immich/issues/comments{/number}
+    contents_url: https://api.github.com/repos/immich-app/immich/contents/{+path}
+    compare_url: https://api.github.com/repos/immich-app/immich/compare/{base}...{head}
+    merges_url: https://api.github.com/repos/immich-app/immich/merges
+    archive_url: https://api.github.com/repos/immich-app/immich/{archive_format}{/ref}
+    downloads_url: https://api.github.com/repos/immich-app/immich/downloads
+    issues_url: https://api.github.com/repos/immich-app/immich/issues{/number}
+    pulls_url: https://api.github.com/repos/immich-app/immich/pulls{/number}
+    milestones_url: https://api.github.com/repos/immich-app/immich/milestones{/number}
+    notifications_url: https://api.github.com/repos/immich-app/immich/notifications{?since,all,participating}
+    labels_url: https://api.github.com/repos/immich-app/immich/labels{/name}
+    releases_url: https://api.github.com/repos/immich-app/immich/releases{/id}
+    deployments_url: https://api.github.com/repos/immich-app/immich/deployments
+    created_at: 2022-02-03T15:56:27Z
+    updated_at: 2026-10-23T12:14:33Z
+    pushed_at: 2026-10-23T09:44:03Z
+    git_url: git://github.com/immich-app/immich.git
+    ssh_url: git@github.com:immich-app/immich.git
+    clone_url: https://github.com/immich-app/immich.git
+    svn_url: https://github.com/immich-app/immich
+    homepage: https://immich.app
+    size: 318019
+    stargazers_count: 116995
+    watchers_count: 116995
+    language: TypeScript
+    has_issues: true
+    has_projects: true
+    has_downloads: false
+    has_wiki: false
+    has_pages: false
+    has_discussions: true
+    forks_count: 7314
+    mirror_url: null
     archived: false
     disabled: false
-    private: false
-    visibility: public
-    stargazers_count: 102744
-    forks_count: 5799
-    pushed_at: 2026-06-07T13:40:01Z
+    open_issues_count: 719
     license:
+      key: agpl-3.0
+      name: GNU Affero General Public License v3.0
       spdx_id: AGPL-3.0
-      key: null
-      name: null
-      url: null
-    language: TypeScript
+      url: https://api.github.com/licenses/agpl-3.0
+      node_id: MDc6TGljZW5zZTE=
+    allow_forking: true
+    is_template: false
+    web_commit_signoff_required: false
+    has_pull_requests: true
+    pull_request_creation_policy: all
     topics:
-      - nodejs
-      - javascript
-      - photos
-      - typescript
-      - svelte
-      - photo-gallery
-      - mobile-app
-      - self-hosted
-      - videos
-      - google-photos
-      - flutter
       - backup-tool
-      - nestjs
-      - photos-management
-      - sveltekit
+      - flutter
+      - google-photos
       - google-photos-alternative
+      - javascript
+      - mobile-app
+      - nestjs
+      - nodejs
+      - photo-gallery
+      - photos
+      - photos-management
+      - self-hosted
+      - svelte
+      - sveltekit
+      - typescript
+      - videos
+    visibility: public
+    forks: 7314
+    open_issues: 719
+    watchers: 116995
+    default_branch: main
+    permissions:
+      admin: false
+      maintain: false
+      push: false
+      triage: false
+      pull: false
+    temp_clone_token: ""
+    custom_properties: {}
+    organization:
+      login: immich-app
+      id: 109746326
+      node_id: O_kgDOBoqYlg
+      avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/immich-app
+      html_url: https://github.com/immich-app
+      followers_url: https://api.github.com/users/immich-app/followers
+      following_url: https://api.github.com/users/immich-app/following{/other_user}
+      gists_url: https://api.github.com/users/immich-app/gists{/gist_id}
+      starred_url: https://api.github.com/users/immich-app/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/immich-app/subscriptions
+      organizations_url: https://api.github.com/users/immich-app/orgs
+      repos_url: https://api.github.com/users/immich-app/repos
+      events_url: https://api.github.com/users/immich-app/events{/privacy}
+      received_events_url: https://api.github.com/users/immich-app/received_events
+      type: Organization
+      user_view_type: public
+      site_admin: false
+    network_count: 7314
+    subscribers_count: 358
   activity:
-    monthlyCommits: []
-    totalCommitsKnown: 0
-    openPullRequests: 0
+    monthlyCommits:
+      - month: 2026-05
+        commits: 0
+      - month: 2026-06
+        commits: 0
+      - month: 2026-07
+        commits: 0
+      - month: 2026-08
+        commits: 0
+      - month: 2026-09
+        commits: 0
+      - month: 2026-10
+        commits: 100
+    totalCommitsKnown: 11335
+    openPullRequests: 228
+    contributorsKnown: 1031
   sync:
-    syncedAt: 2026-06-07T15:24:30.417Z
+    syncedAt: 2026-10-23T12:20:32.067Z
     apiVersion: rest-v3
-    source: migrate-legacy
+    source: github-actions
+  languages:
+    TypeScript: 6273102
+    Dart: 3298794
+    Svelte: 1430209
+    Python: 255222
+    Kotlin: 158348
+    Swift: 116820
+    Rust: 26062
+    JavaScript: 20178
+    Shell: 19007
+    Ruby: 16235
+    Dockerfile: 14397
+    C++: 10309
+    HCL: 5257
+    HTML: 4941
+    CSS: 4466
+    Objective-C: 262
+    Go Template: 207
+  latestRelease:
+    url: https://api.github.com/repos/immich-app/immich/releases/419885390
+    assets_url: https://api.github.com/repos/immich-app/immich/releases/419885390/assets
+    upload_url: https://uploads.github.com/repos/immich-app/immich/releases/419885390/assets{?name,label}
+    html_url: https://github.com/immich-app/immich/releases/tag/v3.3.5
+    id: 419885390
+    author:
+      login: immich-push-o-matic[bot]
+      id: 179150890
+      node_id: BOT_kgDOCq2gKg
+      avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D
+      html_url: https://github.com/apps/immich-push-o-matic
+      followers_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/followers
+      following_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/following{/other_user}
+      gists_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/gists{/gist_id}
+      starred_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/subscriptions
+      organizations_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/orgs
+      repos_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/repos
+      events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/events{/privacy}
+      received_events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/received_events
+      type: Bot
+      user_view_type: public
+      site_admin: false
+    node_id: RE_kwDOGyI-8M4ZBvFO
+    tag_name: v3.3.5
+    target_commitish: release/v3.3
+    name: v3.3.5
+    draft: false
+    immutable: false
+    prerelease: false
+    created_at: 2026-10-21T17:36:21Z
+    updated_at: 2026-10-22T08:12:20Z
+    published_at: 2026-10-21T18:12:57Z
+    assets:
+      - url: https://api.github.com/repos/immich-app/immich/releases/assets/663357897
+        id: 663357897
+        node_id: RA_kwDOGyI-8M4nignJ
+        name: app-arm64-v8a-release.apk
+        label: ""
+        uploader:
+          login: immich-push-o-matic[bot]
+          id: 179150890
+          node_id: BOT_kgDOCq2gKg
+          avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D
+          html_url: https://github.com/apps/immich-push-o-matic
+          followers_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/followers
+          following_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/repos
+          events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 69260133
+        digest: sha256:efea3a47ba3393a78882d07fa11b9ff0051fc6b7d9e0c92505f2912aafdc6695
+        download_count: 15531
+        created_at: 2026-10-21T18:03:48Z
+        updated_at: 2026-10-21T18:03:52Z
+        browser_download_url: https://github.com/immich-app/immich/releases/download/v3.3.5/app-arm64-v8a-release.apk
+      - url: https://api.github.com/repos/immich-app/immich/releases/assets/663357922
+        id: 663357922
+        node_id: RA_kwDOGyI-8M4nigni
+        name: app-armeabi-v7a-release.apk
+        label: ""
+        uploader:
+          login: immich-push-o-matic[bot]
+          id: 179150890
+          node_id: BOT_kgDOCq2gKg
+          avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D
+          html_url: https://github.com/apps/immich-push-o-matic
+          followers_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/followers
+          following_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/repos
+          events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 63974805
+        digest: sha256:e04032d190a4c053ae490baa0a2703f06537ff2e5c5fa40d024bea15facd47a6
+        download_count: 135
+        created_at: 2026-10-21T18:03:48Z
+        updated_at: 2026-10-21T18:03:55Z
+        browser_download_url: https://github.com/immich-app/immich/releases/download/v3.3.5/app-armeabi-v7a-release.apk
+      - url: https://api.github.com/repos/immich-app/immich/releases/assets/663357927
+        id: 663357927
+        node_id: RA_kwDOGyI-8M4nignn
+        name: app-release.apk
+        label: ""
+        uploader:
+          login: immich-push-o-matic[bot]
+          id: 179150890
+          node_id: BOT_kgDOCq2gKg
+          avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D
+          html_url: https://github.com/apps/immich-push-o-matic
+          followers_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/followers
+          following_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/repos
+          events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 179772021
+        digest: sha256:e12e4d40959f9731078f03cb880ed288256a3214f56f93ae667c1b4e43b10a28
+        download_count: 620
+        created_at: 2026-10-21T18:03:49Z
+        updated_at: 2026-10-21T18:03:57Z
+        browser_download_url: https://github.com/immich-app/immich/releases/download/v3.3.5/app-release.apk
+      - url: https://api.github.com/repos/immich-app/immich/releases/assets/663357931
+        id: 663357931
+        node_id: RA_kwDOGyI-8M4nignr
+        name: app-x86_64-release.apk
+        label: ""
+        uploader:
+          login: immich-push-o-matic[bot]
+          id: 179150890
+          node_id: BOT_kgDOCq2gKg
+          avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D
+          html_url: https://github.com/apps/immich-push-o-matic
+          followers_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/followers
+          following_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/repos
+          events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 71980079
+        digest: sha256:c00a63bc850b1b41755679b13db18072525456acac41e71f3d5c552c2de72677
+        download_count: 126
+        created_at: 2026-10-21T18:03:49Z
+        updated_at: 2026-10-21T18:03:52Z
+        browser_download_url: https://github.com/immich-app/immich/releases/download/v3.3.5/app-x86_64-release.apk
+      - url: https://api.github.com/repos/immich-app/immich/releases/assets/663357845
+        id: 663357845
+        node_id: RA_kwDOGyI-8M4nigmV
+        name: docker-compose.rootless.yml
+        label: ""
+        uploader:
+          login: immich-push-o-matic[bot]
+          id: 179150890
+          node_id: BOT_kgDOCq2gKg
+          avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D
+          html_url: https://github.com/apps/immich-push-o-matic
+          followers_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/followers
+          following_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/repos
+          events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/yaml
+        state: uploaded
+        size: 3263
+        digest: sha256:97587c3e22401b8e10c2fc780e481426050ce8085f542d7b28a7c3529181dc10
+        download_count: 204
+        created_at: 2026-10-21T18:03:47Z
+        updated_at: 2026-10-21T18:03:48Z
+        browser_download_url: https://github.com/immich-app/immich/releases/download/v3.3.5/docker-compose.rootless.yml
+      - url: https://api.github.com/repos/immich-app/immich/releases/assets/663357847
+        id: 663357847
+        node_id: RA_kwDOGyI-8M4nigmX
+        name: docker-compose.yml
+        label: ""
+        uploader:
+          login: immich-push-o-matic[bot]
+          id: 179150890
+          node_id: BOT_kgDOCq2gKg
+          avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D
+          html_url: https://github.com/apps/immich-push-o-matic
+          followers_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/followers
+          following_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/repos
+          events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/yaml
+        state: uploaded
+        size: 2844
+        digest: sha256:2601c893aa3217d3c0c7284c23aaa1699aac75b533c84c0315fd16b7889fd552
+        download_count: 9994
+        created_at: 2026-10-21T18:03:47Z
+        updated_at: 2026-10-21T18:03:47Z
+        browser_download_url: https://github.com/immich-app/immich/releases/download/v3.3.5/docker-compose.yml
+      - url: https://api.github.com/repos/immich-app/immich/releases/assets/663357855
+        id: 663357855
+        node_id: RA_kwDOGyI-8M4nigmf
+        name: example.env
+        label: ""
+        uploader:
+          login: immich-push-o-matic[bot]
+          id: 179150890
+          node_id: BOT_kgDOCq2gKg
+          avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D
+          html_url: https://github.com/apps/immich-push-o-matic
+          followers_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/followers
+          following_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/repos
+          events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 979
+        digest: sha256:dda820cecbcf5fd5d6afecc54107bbd3c973088c631d380dfc83e9f0f2c6b210
+        download_count: 4425
+        created_at: 2026-10-21T18:03:47Z
+        updated_at: 2026-10-21T18:03:48Z
+        browser_download_url: https://github.com/immich-app/immich/releases/download/v3.3.5/example.env
+      - url: https://api.github.com/repos/immich-app/immich/releases/assets/663357848
+        id: 663357848
+        node_id: RA_kwDOGyI-8M4nigmY
+        name: hwaccel.ml.yml
+        label: ""
+        uploader:
+          login: immich-push-o-matic[bot]
+          id: 179150890
+          node_id: BOT_kgDOCq2gKg
+          avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D
+          html_url: https://github.com/apps/immich-push-o-matic
+          followers_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/followers
+          following_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/repos
+          events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/yaml
+        state: uploaded
+        size: 1265
+        digest: sha256:4a1805c18c1ed7aea75fd5681ccf4eb6a9ad224fe1738bcf01a784b2cf828cdd
+        download_count: 633
+        created_at: 2026-10-21T18:03:47Z
+        updated_at: 2026-10-21T18:03:48Z
+        browser_download_url: https://github.com/immich-app/immich/releases/download/v3.3.5/hwaccel.ml.yml
+      - url: https://api.github.com/repos/immich-app/immich/releases/assets/663357851
+        id: 663357851
+        node_id: RA_kwDOGyI-8M4nigmb
+        name: hwaccel.transcoding.yml
+        label: ""
+        uploader:
+          login: immich-push-o-matic[bot]
+          id: 179150890
+          node_id: BOT_kgDOCq2gKg
+          avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D
+          html_url: https://github.com/apps/immich-push-o-matic
+          followers_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/followers
+          following_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/repos
+          events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/yaml
+        state: uploaded
+        size: 1679
+        digest: sha256:a50d01758fdbd468270ef7104dce6f282e217ef916238098ac94a70ca8e4c326
+        download_count: 585
+        created_at: 2026-10-21T18:03:47Z
+        updated_at: 2026-10-21T18:03:48Z
+        browser_download_url: https://github.com/immich-app/immich/releases/download/v3.3.5/hwaccel.transcoding.yml
+      - url: https://api.github.com/repos/immich-app/immich/releases/assets/663357887
+        id: 663357887
+        node_id: RA_kwDOGyI-8M4nigm_
+        name: prometheus.yml
+        label: ""
+        uploader:
+          login: immich-push-o-matic[bot]
+          id: 179150890
+          node_id: BOT_kgDOCq2gKg
+          avatar_url: https://avatars.githubusercontent.com/u/109746326?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D
+          html_url: https://github.com/apps/immich-push-o-matic
+          followers_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/followers
+          following_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/repos
+          events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/immich-push-o-matic%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/yaml
+        state: uploaded
+        size: 260
+        digest: sha256:4e5fe9d3019df2d1cad4c865e87f9037d98e5f0c3bf28cd509f4f86e6829ae93
+        download_count: 101
+        created_at: 2026-10-21T18:03:48Z
+        updated_at: 2026-10-21T18:03:48Z
+        browser_download_url: https://github.com/immich-app/immich/releases/download/v3.3.5/prometheus.yml
+    tarball_url: https://api.github.com/repos/immich-app/immich/tarball/v3.3.5
+    zipball_url: https://api.github.com/repos/immich-app/immich/zipball/v3.3.5
+    body: "> [!CAUTION]\r
+
+      > This version contains a fix for today's CA compromise
+      (https://emudhra.we-have-a-problem.com/) as well as some [nodejs security
+      patches](https://nodejs.org/en/blog/vulnerability/october-2026-security-releases). While we
+      don't believe this compromise brings an immediate danger to Immich instances, we still
+      recommend that you update as soon as possible.\r
+
+      \r
+
+      https://xkcd.com/221/\r
+
+      \r
+
+      ## What's Changed\r
+
+      ### 🔒 Security\r
+
+      * chore(deps): update python docker digests by @bo0tzz in
+      https://github.com/immich-app/immich/pull/32635\r
+
+      * chore(deps): update dependency certifi to v2026.10.19 by @bo0tzz in
+      https://github.com/immich-app/immich/pull/32636\r
+
+      \r
+
+      **Full Changelog**: https://github.com/immich-app/immich/compare/v3.3.4...v3.3.5\r\n"
+    reactions:
+      url: https://api.github.com/repos/immich-app/immich/releases/419885390/reactions
+      total_count: 183
+      "+1": 85
+      "-1": 0
+      laugh: 16
+      hooray: 14
+      confused: 0
+      heart: 40
+      rocket: 19
+      eyes: 9
+    mentions_count: 1
+  files:
+    readme: true
+    contributing: true
+    codeOfConduct: false
+    security: false
+    issueTemplates: true
+    pullRequestTemplate: true
+  labels:
+    - name: good first issue
+      color: 7057ff
+      description: Good for newcomers
 health:
   status: active
   tier: curated
