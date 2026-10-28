@@ -25,41 +25,301 @@ stack:
       role: mobile-framework
 github:
   repository:
+    id: 29702213
+    node_id: MDEwOlJlcG9zaXRvcnkyOTcwMjIxMw==
+    name: eigen
     full_name: artsy/eigen
+    private: false
+    owner:
+      login: artsy
+      id: 546231
+      node_id: MDEyOk9yZ2FuaXphdGlvbjU0NjIzMQ==
+      avatar_url: https://avatars.githubusercontent.com/u/546231?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/artsy
+      html_url: https://github.com/artsy
+      followers_url: https://api.github.com/users/artsy/followers
+      following_url: https://api.github.com/users/artsy/following{/other_user}
+      gists_url: https://api.github.com/users/artsy/gists{/gist_id}
+      starred_url: https://api.github.com/users/artsy/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/artsy/subscriptions
+      organizations_url: https://api.github.com/users/artsy/orgs
+      repos_url: https://api.github.com/users/artsy/repos
+      events_url: https://api.github.com/users/artsy/events{/privacy}
+      received_events_url: https://api.github.com/users/artsy/received_events
+      type: Organization
+      user_view_type: public
+      site_admin: false
     html_url: https://github.com/artsy/eigen
-    description: The mobile app for artsy.net — discover fine art, browse artists and artworks, follow
-      galleries, and bid in auctions from your phone.
+    description: The Art World in Your Pocket or Your Trendy Tech Company's Tote, Artsy's mobile app.
     fork: false
+    url: https://api.github.com/repos/artsy/eigen
+    forks_url: https://api.github.com/repos/artsy/eigen/forks
+    keys_url: https://api.github.com/repos/artsy/eigen/keys{/key_id}
+    collaborators_url: https://api.github.com/repos/artsy/eigen/collaborators{/collaborator}
+    teams_url: https://api.github.com/repos/artsy/eigen/teams
+    hooks_url: https://api.github.com/repos/artsy/eigen/hooks
+    issue_events_url: https://api.github.com/repos/artsy/eigen/issues/events{/number}
+    events_url: https://api.github.com/repos/artsy/eigen/events
+    assignees_url: https://api.github.com/repos/artsy/eigen/assignees{/user}
+    branches_url: https://api.github.com/repos/artsy/eigen/branches{/branch}
+    tags_url: https://api.github.com/repos/artsy/eigen/tags
+    blobs_url: https://api.github.com/repos/artsy/eigen/git/blobs{/sha}
+    git_tags_url: https://api.github.com/repos/artsy/eigen/git/tags{/sha}
+    git_refs_url: https://api.github.com/repos/artsy/eigen/git/refs{/sha}
+    trees_url: https://api.github.com/repos/artsy/eigen/git/trees{/sha}
+    statuses_url: https://api.github.com/repos/artsy/eigen/statuses/{sha}
+    languages_url: https://api.github.com/repos/artsy/eigen/languages
+    stargazers_url: https://api.github.com/repos/artsy/eigen/stargazers
+    contributors_url: https://api.github.com/repos/artsy/eigen/contributors
+    subscribers_url: https://api.github.com/repos/artsy/eigen/subscribers
+    subscription_url: https://api.github.com/repos/artsy/eigen/subscription
+    commits_url: https://api.github.com/repos/artsy/eigen/commits{/sha}
+    git_commits_url: https://api.github.com/repos/artsy/eigen/git/commits{/sha}
+    comments_url: https://api.github.com/repos/artsy/eigen/comments{/number}
+    issue_comment_url: https://api.github.com/repos/artsy/eigen/issues/comments{/number}
+    contents_url: https://api.github.com/repos/artsy/eigen/contents/{+path}
+    compare_url: https://api.github.com/repos/artsy/eigen/compare/{base}...{head}
+    merges_url: https://api.github.com/repos/artsy/eigen/merges
+    archive_url: https://api.github.com/repos/artsy/eigen/{archive_format}{/ref}
+    downloads_url: https://api.github.com/repos/artsy/eigen/downloads
+    issues_url: https://api.github.com/repos/artsy/eigen/issues{/number}
+    pulls_url: https://api.github.com/repos/artsy/eigen/pulls{/number}
+    milestones_url: https://api.github.com/repos/artsy/eigen/milestones{/number}
+    notifications_url: https://api.github.com/repos/artsy/eigen/notifications{?since,all,participating}
+    labels_url: https://api.github.com/repos/artsy/eigen/labels{/name}
+    releases_url: https://api.github.com/repos/artsy/eigen/releases{/id}
+    deployments_url: https://api.github.com/repos/artsy/eigen/deployments
+    created_at: 2015-01-22T21:52:39Z
+    updated_at: 2026-10-28T09:07:47Z
+    pushed_at: 2026-10-28T13:22:19Z
+    git_url: git://github.com/artsy/eigen.git
+    ssh_url: git@github.com:artsy/eigen.git
+    clone_url: https://github.com/artsy/eigen.git
+    svn_url: https://github.com/artsy/eigen
+    homepage: ""
+    size: 656429
+    stargazers_count: 3786
+    watchers_count: 3786
+    language: TypeScript
+    has_issues: true
+    has_projects: true
+    has_downloads: false
+    has_wiki: false
+    has_pages: false
+    has_discussions: false
+    forks_count: 593
+    mirror_url: null
     archived: false
     disabled: false
-    private: false
-    visibility: public
-    stargazers_count: 3772
-    forks_count: 1000
-    pushed_at: 2026-06-05T08:29:52Z
+    open_issues_count: 21
     license:
+      key: mit
+      name: MIT License
       spdx_id: MIT
-      key: null
-      name: null
-      url: null
-    language: TypeScript
+      url: https://api.github.com/licenses/mit
+      node_id: MDc6TGljZW5zZTEz
+    allow_forking: true
+    is_template: false
+    web_commit_signoff_required: false
+    has_pull_requests: true
+    pull_request_creation_policy: all
     topics:
-      - art
       - android
-      - swift
-      - ios
       - app
-      - react-native
-      - objective-c
       - app-store
+      - art
+      - ios
+      - objective-c
+      - react-native
+      - swift
+    visibility: public
+    forks: 593
+    open_issues: 21
+    watchers: 3786
+    default_branch: main
+    permissions:
+      admin: false
+      maintain: false
+      push: false
+      triage: false
+      pull: false
+    temp_clone_token: ""
+    custom_properties: {}
+    organization:
+      login: artsy
+      id: 546231
+      node_id: MDEyOk9yZ2FuaXphdGlvbjU0NjIzMQ==
+      avatar_url: https://avatars.githubusercontent.com/u/546231?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/artsy
+      html_url: https://github.com/artsy
+      followers_url: https://api.github.com/users/artsy/followers
+      following_url: https://api.github.com/users/artsy/following{/other_user}
+      gists_url: https://api.github.com/users/artsy/gists{/gist_id}
+      starred_url: https://api.github.com/users/artsy/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/artsy/subscriptions
+      organizations_url: https://api.github.com/users/artsy/orgs
+      repos_url: https://api.github.com/users/artsy/repos
+      events_url: https://api.github.com/users/artsy/events{/privacy}
+      received_events_url: https://api.github.com/users/artsy/received_events
+      type: Organization
+      user_view_type: public
+      site_admin: false
+    network_count: 593
+    subscribers_count: 115
   activity:
-    monthlyCommits: []
-    totalCommitsKnown: 0
-    openPullRequests: 0
+    monthlyCommits:
+      - month: 2026-05
+        commits: 0
+      - month: 2026-06
+        commits: 0
+      - month: 2026-07
+        commits: 0
+      - month: 2026-08
+        commits: 0
+      - month: 2026-09
+        commits: 0
+      - month: 2026-10
+        commits: 100
+    totalCommitsKnown: 28578
+    openPullRequests: 19
+    contributorsKnown: 166
   sync:
-    syncedAt: 2026-06-07T15:24:17.804Z
+    syncedAt: 2026-10-28T13:43:50.115Z
     apiVersion: rest-v3
-    source: migrate-legacy
+    source: github-actions
+  languages:
+    TypeScript: 9410013
+    Objective-C: 697328
+    Swift: 479857
+    Shell: 87741
+    Ruby: 75887
+    JavaScript: 45137
+    Kotlin: 33057
+    Objective-C++: 26829
+    Wolfram Language: 7442
+    MATLAB: 4544
+    C: 4501
+    Java: 3874
+    Vim Script: 428
+  latestRelease:
+    url: https://api.github.com/repos/artsy/eigen/releases/426698065
+    assets_url: https://api.github.com/repos/artsy/eigen/releases/426698065/assets
+    upload_url: https://uploads.github.com/repos/artsy/eigen/releases/426698065/assets{?name,label}
+    html_url: https://github.com/artsy/eigen/releases/tag/ios-9.21.0-2026.10.22.09-submission
+    id: 426698065
+    author:
+      login: github-actions[bot]
+      id: 41898282
+      node_id: MDM6Qm90NDE4OTgyODI=
+      avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/github-actions%5Bbot%5D
+      html_url: https://github.com/apps/github-actions
+      followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+      following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+      gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+      starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+      organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+      repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+      events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+      received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+      type: Bot
+      user_view_type: public
+      site_admin: false
+    node_id: RE_kwDOAcU4Rc4ZbuVR
+    tag_name: ios-9.21.0-2026.10.22.09-submission
+    target_commitish: main
+    name: v9.21.0
+    draft: false
+    immutable: false
+    prerelease: false
+    created_at: 2026-10-22T09:38:58Z
+    updated_at: 2026-10-28T13:22:55Z
+    published_at: 2026-10-28T13:22:55Z
+    assets: []
+    tarball_url: https://api.github.com/repos/artsy/eigen/tarball/ios-9.21.0-2026.10.22.09-submission
+    zipball_url: https://api.github.com/repos/artsy/eigen/zipball/ios-9.21.0-2026.10.22.09-submission
+    body: |-
+      Check the health of this release in Sentry:
+
+      :apple: [iOS Release details](https://artsynet.sentry.io/explore/releases/ios-9.21.0-2026.10.22.09/?environment=production&project=5867225) | :robot: [Android Release details](https://artsynet.sentry.io/explore/releases/android-9.21.0-2026102209/?environment=production&project=5867225)
+
+      :apple: [Mobile Vitals iOS](https://artsynet.sentry.io/dashboard/622403/?environment=production&project=5867225&statsPeriod=30d&release=ios-9.21.0-2026.10.22.09) | :robot: [Mobile Vitals Android](https://artsynet.sentry.io/dashboard/622403/?environment=production&project=5867225&statsPeriod=30d&release=android-9.21.0-2026102209)
+      ## What's Changed
+      * feat(article): render artwork grid sections by @dzucconi in https://github.com/artsy/eigen/pull/14220
+      * chore(deps): update dep @artsy/cohesion from 4.411.0 to v4.412.0 by @renovate[bot] in https://github.com/artsy/eigen/pull/14252
+      * fix(city-guide): stop the featured pill glow from freezing the app by @MounirDhahri in https://github.com/artsy/eigen/pull/14254
+      * fix(city-guide): make itinerary titles readable in the picker sheet in dark mode by @MounirDhahri in https://github.com/artsy/eigen/pull/14255
+      * chore: prepare for next release by @artsyit in https://github.com/artsy/eigen/pull/14256
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14257
+      * feat(PHIRE-3439): Add publish PR Preview workflow by @MrSltun in https://github.com/artsy/eigen/pull/14253
+      * feat(search): track art discovery method cards by @nickskalkin in https://github.com/artsy/eigen/pull/14258
+      * chore: Update claude review title patterns by @MrSltun in https://github.com/artsy/eigen/pull/14259
+      * fix(search): update beta badges on discovery cards by @nickskalkin in https://github.com/artsy/eigen/pull/14260
+      * chore(deps): update dep @artsy/palette-mobile from 24.15.0 to v24.17.0 by @renovate[bot] in https://github.com/artsy/eigen/pull/14261
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14266
+      * fix(artwork): replace react-native-reanimated-zoom to stop Android image viewer crash by @gkartalis in https://github.com/artsy/eigen/pull/14264
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14271
+      * build(deps): bump proxy-addr to fix critical severity alert by @gkartalis in https://github.com/artsy/eigen/pull/14272
+      * build(deps): bump compression from 1.8.1 to 1.8.2 by @dependabot[bot] in https://github.com/artsy/eigen/pull/14268
+      * build(deps): bump source-map-js from 1.2.1 to 1.2.2 by @dependabot[bot] in https://github.com/artsy/eigen/pull/14267
+      * fix: show Artsy Lens tooltip from the third app launch by @nickskalkin in https://github.com/artsy/eigen/pull/14277
+      * feat(PHIRE-3445): Add new color indicator for preview bundles  by @MrSltun in https://github.com/artsy/eigen/pull/14265
+      * feat(PHIRE-3442): delete preview channel on expo on PR merge/close or label removal by @MrSltun in https://github.com/artsy/eigen/pull/14263
+      * chore(PHIRE-3488): Support PR Previews for `review-app-*` branches by @MrSltun in https://github.com/artsy/eigen/pull/14273
+      * feat(lens): update start screen copy by @evaschilken in https://github.com/artsy/eigen/pull/14270
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14280
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14281
+      * build(deps): bump shell-quote to fix critical severity by @gkartalis in https://github.com/artsy/eigen/pull/14283
+      * fix(ONYX-2195): always enable Show Results button in artwork filter panel by @evaschilken in https://github.com/artsy/eigen/pull/13860
+      * build(deps): remove braces resolution by @gkartalis in https://github.com/artsy/eigen/pull/14284
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14286
+      * fix: track taps on trending artworks in search by @evaschilken in https://github.com/artsy/eigen/pull/14287
+      * feat(CityGuide): add the first itinerary stop image as fallback image by @araujobarret in https://github.com/artsy/eigen/pull/14285
+      * fix(PHIRE-3493): Fix Android 12 status bar issue by @MrSltun in https://github.com/artsy/eigen/pull/14288
+      * fix(search): shrink and indent Explore by Category card titles by @evaschilken in https://github.com/artsy/eigen/pull/14275
+      * fix(search): Discover Art Your Way title size and section spacing by @evaschilken in https://github.com/artsy/eigen/pull/14276
+      * fix(CityGuide): enable network fetch to avoid a stale cache when creating an itinerary by @araujobarret in https://github.com/artsy/eigen/pull/14291
+      * chore: prepare for next release by @artsyit in https://github.com/artsy/eigen/pull/14292
+      * feat(trending-search): remove period selection by @egdbear in https://github.com/artsy/eigen/pull/14293
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14294
+      * feat(HomeView): adjust featured pill animation to run a cycle and stop, remove bounce from the Pills by @araujobarret in https://github.com/artsy/eigen/pull/14297
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14298
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14304
+      * chore(deps): update dep @artsy/cohesion from 4.412.0 to v4.412.1 by @renovate[bot] in https://github.com/artsy/eigen/pull/14305
+      * fix: rendermarkdown lists by @gkartalis in https://github.com/artsy/eigen/pull/14299
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14306
+      * chore(deps): update dep @artsy/cohesion from 4.412.1 to v4.413.0 by @renovate[bot] in https://github.com/artsy/eigen/pull/14308
+      * feat: enable edge to edge on android by @gkartalis in https://github.com/artsy/eigen/pull/14290
+      * chore(deps): update dep @artsy/palette-mobile from 24.17.0 to v24.18.0 by @renovate[bot] in https://github.com/artsy/eigen/pull/14310
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14312
+      * build(android): enable R8 optimization and optimized resource shrinking by @gkartalis in https://github.com/artsy/eigen/pull/14311
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14313
+      * feat: art assistant suggested replies by @leamotta in https://github.com/artsy/eigen/pull/14309
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14314
+      * docs: remove section about expo updates not being ready for prod by @gkartalis in https://github.com/artsy/eigen/pull/14315
+      * feat(art-assistant): render artist response sections by @nickskalkin in https://github.com/artsy/eigen/pull/14279
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14316
+      * chore(PHIRE-3447): Add docs for the new PR Preview flow by @MrSltun in https://github.com/artsy/eigen/pull/14289
+      * fix(expo-updates): use Android build number format for Android Expo releases by @gkartalis in https://github.com/artsy/eigen/pull/14317
+      * feat(CityGuide): add itinerary notes, cosmetic changes by @araujobarret in https://github.com/artsy/eigen/pull/14318
+      * chore: update metaphysics graphql schema by @artsyit in https://github.com/artsy/eigen/pull/14319
+      * feat(ArtAssistant): improve error message of art assistant by @araujobarret in https://github.com/artsy/eigen/pull/14320
+
+
+      **Full Changelog**: https://github.com/artsy/eigen/compare/ios-9.20.0-2026.10.07.16-submission...ios-9.21.0-2026.10.22.09-submission
+    mentions_count: 12
+  files:
+    readme: true
+    contributing: false
+    codeOfConduct: false
+    security: false
+    issueTemplates: true
+    pullRequestTemplate: false
+  labels: []
 health:
   status: active
   tier: curated
