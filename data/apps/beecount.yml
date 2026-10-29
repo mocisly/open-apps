@@ -25,45 +25,555 @@ stack:
       role: mobile-framework
 github:
   repository:
+    id: 1051440251
+    node_id: R_kgDOPqu0ew
+    name: BeeCount
     full_name: TNT-Likely/BeeCount
+    private: false
+    owner:
+      login: TNT-Likely
+      id: 9278923
+      node_id: MDQ6VXNlcjkyNzg5MjM=
+      avatar_url: https://avatars.githubusercontent.com/u/9278923?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/TNT-Likely
+      html_url: https://github.com/TNT-Likely
+      followers_url: https://api.github.com/users/TNT-Likely/followers
+      following_url: https://api.github.com/users/TNT-Likely/following{/other_user}
+      gists_url: https://api.github.com/users/TNT-Likely/gists{/gist_id}
+      starred_url: https://api.github.com/users/TNT-Likely/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/TNT-Likely/subscriptions
+      organizations_url: https://api.github.com/users/TNT-Likely/orgs
+      repos_url: https://api.github.com/users/TNT-Likely/repos
+      events_url: https://api.github.com/users/TNT-Likely/events{/privacy}
+      received_events_url: https://api.github.com/users/TNT-Likely/received_events
+      type: User
+      user_view_type: public
+      site_admin: false
     html_url: https://github.com/TNT-Likely/BeeCount
-    description: Privacy-first cross-platform expense tracker with self-hostable cloud sync (BeeCount
-      Cloud, iCloud, Supabase, WebDAV, S3) and offline-first design
+    description: Local-first bookkeeping for iOS/Android/Web · Self-hosted cloud + iCloud/WebDAV/S3 sync
+      · AI capture · MCP | 本地优先的跨端记账 · 自建云 + iCloud/WebDAV/S3 同步 · AI 记账 · MCP
     fork: false
+    url: https://api.github.com/repos/TNT-Likely/BeeCount
+    forks_url: https://api.github.com/repos/TNT-Likely/BeeCount/forks
+    keys_url: https://api.github.com/repos/TNT-Likely/BeeCount/keys{/key_id}
+    collaborators_url: https://api.github.com/repos/TNT-Likely/BeeCount/collaborators{/collaborator}
+    teams_url: https://api.github.com/repos/TNT-Likely/BeeCount/teams
+    hooks_url: https://api.github.com/repos/TNT-Likely/BeeCount/hooks
+    issue_events_url: https://api.github.com/repos/TNT-Likely/BeeCount/issues/events{/number}
+    events_url: https://api.github.com/repos/TNT-Likely/BeeCount/events
+    assignees_url: https://api.github.com/repos/TNT-Likely/BeeCount/assignees{/user}
+    branches_url: https://api.github.com/repos/TNT-Likely/BeeCount/branches{/branch}
+    tags_url: https://api.github.com/repos/TNT-Likely/BeeCount/tags
+    blobs_url: https://api.github.com/repos/TNT-Likely/BeeCount/git/blobs{/sha}
+    git_tags_url: https://api.github.com/repos/TNT-Likely/BeeCount/git/tags{/sha}
+    git_refs_url: https://api.github.com/repos/TNT-Likely/BeeCount/git/refs{/sha}
+    trees_url: https://api.github.com/repos/TNT-Likely/BeeCount/git/trees{/sha}
+    statuses_url: https://api.github.com/repos/TNT-Likely/BeeCount/statuses/{sha}
+    languages_url: https://api.github.com/repos/TNT-Likely/BeeCount/languages
+    stargazers_url: https://api.github.com/repos/TNT-Likely/BeeCount/stargazers
+    contributors_url: https://api.github.com/repos/TNT-Likely/BeeCount/contributors
+    subscribers_url: https://api.github.com/repos/TNT-Likely/BeeCount/subscribers
+    subscription_url: https://api.github.com/repos/TNT-Likely/BeeCount/subscription
+    commits_url: https://api.github.com/repos/TNT-Likely/BeeCount/commits{/sha}
+    git_commits_url: https://api.github.com/repos/TNT-Likely/BeeCount/git/commits{/sha}
+    comments_url: https://api.github.com/repos/TNT-Likely/BeeCount/comments{/number}
+    issue_comment_url: https://api.github.com/repos/TNT-Likely/BeeCount/issues/comments{/number}
+    contents_url: https://api.github.com/repos/TNT-Likely/BeeCount/contents/{+path}
+    compare_url: https://api.github.com/repos/TNT-Likely/BeeCount/compare/{base}...{head}
+    merges_url: https://api.github.com/repos/TNT-Likely/BeeCount/merges
+    archive_url: https://api.github.com/repos/TNT-Likely/BeeCount/{archive_format}{/ref}
+    downloads_url: https://api.github.com/repos/TNT-Likely/BeeCount/downloads
+    issues_url: https://api.github.com/repos/TNT-Likely/BeeCount/issues{/number}
+    pulls_url: https://api.github.com/repos/TNT-Likely/BeeCount/pulls{/number}
+    milestones_url: https://api.github.com/repos/TNT-Likely/BeeCount/milestones{/number}
+    notifications_url: https://api.github.com/repos/TNT-Likely/BeeCount/notifications{?since,all,participating}
+    labels_url: https://api.github.com/repos/TNT-Likely/BeeCount/labels{/name}
+    releases_url: https://api.github.com/repos/TNT-Likely/BeeCount/releases{/id}
+    deployments_url: https://api.github.com/repos/TNT-Likely/BeeCount/deployments
+    created_at: 2025-09-06T02:15:06Z
+    updated_at: 2026-10-29T12:07:52Z
+    pushed_at: 2026-10-29T08:07:35Z
+    git_url: git://github.com/TNT-Likely/BeeCount.git
+    ssh_url: git@github.com:TNT-Likely/BeeCount.git
+    clone_url: https://github.com/TNT-Likely/BeeCount.git
+    svn_url: https://github.com/TNT-Likely/BeeCount
+    homepage: https://count.beejz.com
+    size: 1120447
+    stargazers_count: 2687
+    watchers_count: 2687
+    language: Dart
+    has_issues: true
+    has_projects: true
+    has_downloads: false
+    has_wiki: true
+    has_pages: false
+    has_discussions: true
+    forks_count: 365
+    mirror_url: null
     archived: false
     disabled: false
-    private: false
-    visibility: public
-    stargazers_count: 1715
-    forks_count: 242
-    pushed_at: 2026-06-05T14:15:08Z
-    language: Dart
-    topics:
-      - personal-finance
-      - offline-first
-      - expense-tracker
-      - accounting
-      - webdav
-      - self-hosted
-      - chinese
-      - flutter
-      - account
-      - privacy-first
-      - finance-app
-      - money-management
-      - supabase
-      - accounting-app
+    open_issues_count: 146
     license:
-      spdx_id: null
-      key: null
+      key: other
+      name: Other
+      spdx_id: NOASSERTION
+      url: null
+      node_id: MDc6TGljZW5zZTA=
+    allow_forking: true
+    is_template: false
+    web_commit_signoff_required: false
+    has_pull_requests: true
+    pull_request_creation_policy: all
+    topics:
+      - accounting
+      - ai
+      - android
+      - bookkeeping
+      - chinese
+      - expense-tracker
+      - finance-app
+      - flutter
+      - ios
+      - local-first
+      - mcp
+      - offline-first
+      - personal-finance
+      - privacy-first
+      - self-hosted
+      - supabase
+      - webdav
+    visibility: public
+    forks: 365
+    open_issues: 146
+    watchers: 2687
+    default_branch: main
+    permissions:
+      admin: false
+      maintain: false
+      push: false
+      triage: false
+      pull: false
+    temp_clone_token: ""
+    network_count: 365
+    subscribers_count: 9
   activity:
-    monthlyCommits: []
-    totalCommitsKnown: 0
-    openPullRequests: 0
+    monthlyCommits:
+      - month: 2026-05
+        commits: 0
+      - month: 2026-06
+        commits: 23
+      - month: 2026-07
+        commits: 24
+      - month: 2026-08
+        commits: 13
+      - month: 2026-09
+        commits: 11
+      - month: 2026-10
+        commits: 29
+    totalCommitsKnown: 681
+    openPullRequests: 14
+    contributorsKnown: 13
   sync:
-    syncedAt: 2026-06-07T15:24:12.182Z
+    syncedAt: 2026-10-29T13:53:15.175Z
     apiVersion: rest-v3
-    source: migrate-legacy
+    source: github-actions
+  languages:
+    Dart: 8178112
+    Python: 122602
+    Kotlin: 105947
+    Swift: 97506
+    Ruby: 4369
+    Shell: 3699
+    Objective-C: 38
+  latestRelease:
+    url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/418340615
+    assets_url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/418340615/assets
+    upload_url: https://uploads.github.com/repos/TNT-Likely/BeeCount/releases/418340615/assets{?name,label}
+    html_url: https://github.com/TNT-Likely/BeeCount/releases/tag/3.9.0
+    id: 418340615
+    author:
+      login: github-actions[bot]
+      id: 41898282
+      node_id: MDM6Qm90NDE4OTgyODI=
+      avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+      gravatar_id: ""
+      url: https://api.github.com/users/github-actions%5Bbot%5D
+      html_url: https://github.com/apps/github-actions
+      followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+      following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+      gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+      starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+      subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+      organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+      repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+      events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+      received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+      type: Bot
+      user_view_type: public
+      site_admin: false
+    node_id: RE_kwDOPqu0e84Y718H
+    tag_name: 3.9.0
+    target_commitish: main
+    name: 3.9.0
+    draft: false
+    immutable: false
+    prerelease: false
+    created_at: 2026-10-20T11:18:48Z
+    updated_at: 2026-10-20T14:17:35Z
+    published_at: 2026-10-20T11:50:47Z
+    assets:
+      - url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/assets/659187138
+        id: 659187138
+        node_id: RA_kwDOPqu0e84nSmXC
+        name: beecount-3.9.0-armeabi-v7a.apk
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 20725132
+        digest: sha256:8b5a493ecc6afa80ca81403a55585656a09da233c0f090c4b99a7107e5a0abfd
+        download_count: 634
+        created_at: 2026-10-20T11:50:43Z
+        updated_at: 2026-10-20T11:50:44Z
+        browser_download_url: https://github.com/TNT-Likely/BeeCount/releases/download/3.9.0/beecount-3.9.0-armeabi-v7a.apk
+      - url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/assets/659187136
+        id: 659187136
+        node_id: RA_kwDOPqu0e84nSmXA
+        name: beecount-3.9.0-iphoneos.app.zip
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/zip
+        state: uploaded
+        size: 20418267
+        digest: sha256:e77eaafda72f6c82d606d097bbf9fea2f8ef488241a6f40a6a3c2b3deb2f3f28
+        download_count: 23
+        created_at: 2026-10-20T11:50:43Z
+        updated_at: 2026-10-20T11:50:44Z
+        browser_download_url: https://github.com/TNT-Likely/BeeCount/releases/download/3.9.0/beecount-3.9.0-iphoneos.app.zip
+      - url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/assets/659187134
+        id: 659187134
+        node_id: RA_kwDOPqu0e84nSmW-
+        name: beecount-3.9.0-iphonesimulator.app.zip
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/zip
+        state: uploaded
+        size: 77616902
+        digest: sha256:ef6c7ccfe41401cd28b6879f80e3cbe43b59f8e55d272043f3ab254f5304836e
+        download_count: 24
+        created_at: 2026-10-20T11:50:43Z
+        updated_at: 2026-10-20T11:50:46Z
+        browser_download_url: https://github.com/TNT-Likely/BeeCount/releases/download/3.9.0/beecount-3.9.0-iphonesimulator.app.zip
+      - url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/assets/659187131
+        id: 659187131
+        node_id: RA_kwDOPqu0e84nSmW7
+        name: beecount-3.9.0-signed.ipa
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 39467097
+        digest: sha256:943330803fff9c59daeeb6634e5951144235093c829c3151cca13418ff291b7f
+        download_count: 24
+        created_at: 2026-10-20T11:50:43Z
+        updated_at: 2026-10-20T11:50:45Z
+        browser_download_url: https://github.com/TNT-Likely/BeeCount/releases/download/3.9.0/beecount-3.9.0-signed.ipa
+      - url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/assets/659187133
+        id: 659187133
+        node_id: RA_kwDOPqu0e84nSmW9
+        name: beecount-3.9.0-universal.apk
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 48041996
+        digest: sha256:e6a35255bb33d46d3dd70c5510e81e996ab33e5e48ed926661fdcb467a23f6ba
+        download_count: 521
+        created_at: 2026-10-20T11:50:43Z
+        updated_at: 2026-10-20T11:50:46Z
+        browser_download_url: https://github.com/TNT-Likely/BeeCount/releases/download/3.9.0/beecount-3.9.0-universal.apk
+      - url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/assets/659187140
+        id: 659187140
+        node_id: RA_kwDOPqu0e84nSmXE
+        name: beecount-3.9.0-unsigned.ipa
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/octet-stream
+        state: uploaded
+        size: 20475779
+        digest: sha256:7714421dae012bf2d96a6ed33e89d68ef53c7eafe625799f01e895728181ab9c
+        download_count: 17
+        created_at: 2026-10-20T11:50:43Z
+        updated_at: 2026-10-20T11:50:44Z
+        browser_download_url: https://github.com/TNT-Likely/BeeCount/releases/download/3.9.0/beecount-3.9.0-unsigned.ipa
+      - url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/assets/659187127
+        id: 659187127
+        node_id: RA_kwDOPqu0e84nSmW3
+        name: beecount-3.9.0-x86_64.apk
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 20541929
+        digest: sha256:932c515b7b81a6112b757d3c4dc0891971b9c9aee2b0001b04050f744a38d10a
+        download_count: 77
+        created_at: 2026-10-20T11:50:43Z
+        updated_at: 2026-10-20T11:50:44Z
+        browser_download_url: https://github.com/TNT-Likely/BeeCount/releases/download/3.9.0/beecount-3.9.0-x86_64.apk
+      - url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/assets/659187141
+        id: 659187141
+        node_id: RA_kwDOPqu0e84nSmXF
+        name: beecount-3.9.0.aab
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/x-authorware-bin
+        state: uploaded
+        size: 49121011
+        digest: sha256:b7b3393b35a3b6528de7cba1f47d9cb83bfc27e44f0205d17bf718bb44939271
+        download_count: 18
+        created_at: 2026-10-20T11:50:43Z
+        updated_at: 2026-10-20T11:50:45Z
+        browser_download_url: https://github.com/TNT-Likely/BeeCount/releases/download/3.9.0/beecount-3.9.0.aab
+      - url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/assets/659187129
+        id: 659187129
+        node_id: RA_kwDOPqu0e84nSmW5
+        name: beecount-3.9.0.apk
+        label: ""
+        uploader:
+          login: github-actions[bot]
+          id: 41898282
+          node_id: MDM6Qm90NDE4OTgyODI=
+          avatar_url: https://avatars.githubusercontent.com/in/15368?v=4
+          gravatar_id: ""
+          url: https://api.github.com/users/github-actions%5Bbot%5D
+          html_url: https://github.com/apps/github-actions
+          followers_url: https://api.github.com/users/github-actions%5Bbot%5D/followers
+          following_url: https://api.github.com/users/github-actions%5Bbot%5D/following{/other_user}
+          gists_url: https://api.github.com/users/github-actions%5Bbot%5D/gists{/gist_id}
+          starred_url: https://api.github.com/users/github-actions%5Bbot%5D/starred{/owner}{/repo}
+          subscriptions_url: https://api.github.com/users/github-actions%5Bbot%5D/subscriptions
+          organizations_url: https://api.github.com/users/github-actions%5Bbot%5D/orgs
+          repos_url: https://api.github.com/users/github-actions%5Bbot%5D/repos
+          events_url: https://api.github.com/users/github-actions%5Bbot%5D/events{/privacy}
+          received_events_url: https://api.github.com/users/github-actions%5Bbot%5D/received_events
+          type: Bot
+          user_view_type: public
+          site_admin: false
+        content_type: application/vnd.android.package-archive
+        state: uploaded
+        size: 20374283
+        digest: sha256:f946b99f749be5f6376399e41824043d15a9fdd6047c1b779f7319090dc416a8
+        download_count: 933
+        created_at: 2026-10-20T11:50:43Z
+        updated_at: 2026-10-20T11:50:44Z
+        browser_download_url: https://github.com/TNT-Likely/BeeCount/releases/download/3.9.0/beecount-3.9.0.apk
+    tarball_url: https://api.github.com/repos/TNT-Likely/BeeCount/tarball/3.9.0
+    zipball_url: https://api.github.com/repos/TNT-Likely/BeeCount/zipball/3.9.0
+    body: |
+      # BeeCount 3.9.0
+
+      - **可分享的交易小票**：长按首页明细选择「生成小票」，预览图片、自选展示备注/标签/账户/账本，再保存或分享。
+      - **账户与信用卡体验**：当前欠款和溢缴款分开录入，统一还款方向、正负号与各页面金额口径；账户详情新增全部流水。
+      - **外币导入**：改进账户币种推断、匹配与同名多币种处理。
+      - **附件刷新**：修复手动同步后附件入口没有及时刷新的问题。
+      - **通知角标**：修复 iOS 与 Android 打开或返回 App 后角标残留，保留后续提醒。
+      - **多语言**：完善界面本地化显示。
+
+      App 本地功能可独立使用；使用 BeeCount Cloud 时建议先升级服务端至 1.8.0，以取得配套的 Web 账户体验和票据墙。
+
+      源码范围：`3.8.6..3fddb41747d5e6d89df82a2ff493f2f56a5ac37b`。完整提交与安装包信息由发布流水线保留在下方。
+
+      ---
+
+      ## 变更记录
+      - fix: 修复 iOS 与 Android 通知角标残留 ([3fddb41](https://github.com/TNT-Likely/BeeCount/commit/3fddb41747d5e6d89df82a2ff493f2f56a5ac37b)) [@TNT-Likely](https://github.com/TNT-Likely)
+      - refactor(ai): 获取 API Key 直接跳转 cfg.beejz.com/invite,移除邀请链接池 (#568) ([a09752f](https://github.com/TNT-Likely/BeeCount/commit/a09752fab3d31724b642f3635c88c240ba72ab95)) [@TNT-Likely](https://github.com/TNT-Likely)
+      - feat(receipt): 支持交易长按生成可分享小票 (#563) ([5484496](https://github.com/TNT-Likely/BeeCount/commit/54844964ed6ae88158b6a408894e3787b290dd33)) [@TNT-Likely](https://github.com/TNT-Likely)
+      - docs(qa): 合并后完整清理隔离验收资源 (#562) ([87bcfcf](https://github.com/TNT-Likely/BeeCount/commit/87bcfcf3cd214a4ae0a2d603700bc89ff92556e6)) [@TNT-Likely](https://github.com/TNT-Likely)
+      - fix(sync): 修复手动同步后附件预览入口不刷新 (#561) ([66ca262](https://github.com/TNT-Likely/BeeCount/commit/66ca262b3c09f382b6f85cb3ab69dbce5e778c47)) [@TNT-Likely](https://github.com/TNT-Likely)
+      - fix(accounts): 统一账户欠款、流水与外币导入口径 (#554) ([af23731](https://github.com/TNT-Likely/BeeCount/commit/af237312cede9703f4bbe1c410dac4b2ad6498d4)) [@TNT-Likely](https://github.com/TNT-Likely)
+      - docs: 完善捐赠名单并按累计金额排序 (#560) ([721177d](https://github.com/TNT-Likely/BeeCount/commit/721177db7eb5daf223ae7609ad93221fba6e2b25)) [@TNT-Likely](https://github.com/TNT-Likely)
+      - feat(i18n): 本地化硬编码中文并全量补齐繁体中文 (#550) ([b09d1ec](https://github.com/TNT-Likely/BeeCount/commit/b09d1ec836f85a4b4519c2eaa0fbdd244c714d4d)) [@TNT-Likely](https://github.com/TNT-Likely)
+      - docs: 更新 App 中英文产品截图与演示 (#544) ([9a269fd](https://github.com/TNT-Likely/BeeCount/commit/9a269fd8bfe2978cfd7dc5eefe25f51bdb310415)) [@TNT-Likely](https://github.com/TNT-Likely)
+      - fix(skills): 双端发布并行构建并保留升级顺序 (#543) ([c508350](https://github.com/TNT-Likely/BeeCount/commit/c50835025a6d15788d4a6b222c1a8b13ecf25adf)) [@TNT-Likely](https://github.com/TNT-Likely)
+    reactions:
+      url: https://api.github.com/repos/TNT-Likely/BeeCount/releases/418340615/reactions
+      total_count: 6
+      "+1": 3
+      "-1": 0
+      laugh: 0
+      hooray: 1
+      confused: 0
+      heart: 1
+      rocket: 1
+      eyes: 0
+  files:
+    readme: true
+    contributing: true
+    codeOfConduct: false
+    security: false
+    issueTemplates: true
+    pullRequestTemplate: false
+  labels:
+    - name: good first issue
+      color: 7057ff
+      description: Good for newcomers
+    - name: help wanted
+      color: "008672"
+      description: Extra attention is needed
 health:
   status: active
   tier: curated
